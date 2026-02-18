@@ -14,7 +14,7 @@ input_text:
     name: "Scanner Input"
     max: 128
     initial: ""
-  scanner_buffer:  # ← ZUSAMMENGEFASST!
+  scanner_buffer:
     name: "Scanner Buffer"
     max: 128
     initial: ""
@@ -31,7 +31,7 @@ rest_command:
     method: GET
     headers:
       'Content-Type': 'application/json'
-      'GROCY-API-KEY': 'API_KEY_Einfügen'
+      'GROCY-API-KEY': !secret GROCY-API-KEY
 
 # Lovelace dashboards configuration added by AI Agent
 lovelace:
@@ -42,7 +42,7 @@ lovelace:
       icon: mdi:radio
       show_in_sidebar: true
       filename: ui-lovelace-radio-player-this-device.yaml
-      
+
 sensor:
   - platform: template
     sensors:
@@ -62,4 +62,4 @@ mqtt:
       retain: false
 
 shell_command:
-  export_entities: 'curl -s -X GET "http://homeassistant.local:8123/api/states" -H "Authorization: Bearer Token einfügen " | jq ".[] | {entity_id: .entity_id, friendly_name: .attributes.friendly_name, state: .state, attributes: .attributes, device_info: .attributes.device_info}" > /config/www/esphome_entities.json'
+  export_entities: 'curl -s -X GET "http://homeassistant.local:8123/api/states" -H "Authorization: Bearer {{ states("secret.ha_api_token_entities") }}" | jq ".[] | {entity_id: .entity_id, friendly_name: .attributes.friendly_name, state: .state, attributes: .attributes, device_info: .attributes.device_info}" > /config/www/esphome_entities.json'
