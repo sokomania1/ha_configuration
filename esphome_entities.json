@@ -1,0 +1,3924 @@
+{
+  "name": "Home Assistant Supervisor Update",
+  "entity_id": "update.home_assistant_supervisor_update"
+}
+{
+  "name": "Home Assistant Core Update",
+  "entity_id": "update.home_assistant_core_update"
+}
+{
+  "name": "Mosquitto broker Update",
+  "entity_id": "update.mosquitto_broker_update"
+}
+{
+  "name": "Samba share Update",
+  "entity_id": "update.samba_share_update"
+}
+{
+  "name": "ESPHome Device Builder Update",
+  "entity_id": "update.esphome_device_builder_update"
+}
+{
+  "name": "Terminal & SSH Update",
+  "entity_id": "update.terminal_ssh_update"
+}
+{
+  "name": "File editor Update",
+  "entity_id": "update.file_editor_update"
+}
+{
+  "name": "Zigbee2MQTT Update",
+  "entity_id": "update.zigbee2mqtt_update"
+}
+{
+  "name": "Advanced SSH & Web Terminal Update",
+  "entity_id": "update.advanced_ssh_web_terminal_update"
+}
+{
+  "name": "Assist Microphone Update",
+  "entity_id": "update.assist_microphone_update"
+}
+{
+  "name": "openWakeWord Update",
+  "entity_id": "update.openwakeword_update"
+}
+{
+  "name": "Piper Update",
+  "entity_id": "update.piper_update"
+}
+{
+  "name": "Speech-to-Phrase Update",
+  "entity_id": "update.speech_to_phrase_update"
+}
+{
+  "name": "Barcode Buddy for Grocy Update",
+  "entity_id": "update.barcode_buddy_for_grocy_update"
+}
+{
+  "name": "Home Assistant Time Machine Update",
+  "entity_id": "update.home_assistant_time_machine_update"
+}
+{
+  "name": "Home Assistant Version Control Update",
+  "entity_id": "update.home_assistant_version_control_update"
+}
+{
+  "name": "Whisper Update",
+  "entity_id": "update.whisper_update"
+}
+{
+  "name": "Matter Server Update",
+  "entity_id": "update.matter_server_update"
+}
+{
+  "name": "RPC Shutdown Update",
+  "entity_id": "update.rpc_shutdown_update"
+}
+{
+  "name": "Music Assistant Update",
+  "entity_id": "update.music_assistant_update"
+}
+{
+  "name": "OpenThread Border Router Update",
+  "entity_id": "update.openthread_border_router_update"
+}
+{
+  "name": "SONOFF Dongle Flasher Update",
+  "entity_id": "update.sonoff_dongle_flasher_update"
+}
+{
+  "name": "Home Assistant Operating System Update",
+  "entity_id": "update.home_assistant_operating_system_update"
+}
+{
+  "name": "Home Assistant",
+  "entity_id": "conversation.home_assistant"
+}
+{
+  "name": "Stehlampe Bibi",
+  "entity_id": "light.stehlampe_bibi"
+}
+{
+  "name": "Alle Lichter",
+  "entity_id": "light.alle_lichter_2"
+}
+{
+  "name": "Aktuelle Zeit",
+  "entity_id": "sensor.current_time_badge"
+}
+{
+  "name": "Backup Automatisches Backup",
+  "entity_id": "event.backup_automatic_backup"
+}
+{
+  "name": "Backup Backup-Manager-Zustand",
+  "entity_id": "sensor.backup_backup_manager_state"
+}
+{
+  "name": "Backup Nächstes geplantes automatisches Backup",
+  "entity_id": "sensor.backup_next_scheduled_automatic_backup"
+}
+{
+  "name": "Backup Letztes erfolgreiches automatisches Backup",
+  "entity_id": "sensor.backup_last_successful_automatic_backup"
+}
+{
+  "name": "Backup Letztes versuchtes automatisches Backup",
+  "entity_id": "sensor.backup_last_attempted_automatic_backup"
+}
+{
+  "name": "Remote UI",
+  "entity_id": "binary_sensor.remote_ui"
+}
+{
+  "name": "Home Assistant Cloud",
+  "entity_id": "stt.home_assistant_cloud"
+}
+{
+  "name": "Home Assistant Cloud",
+  "entity_id": "tts.home_assistant_cloud"
+}
+{
+  "name": "Home",
+  "entity_id": "zone.home"
+}
+{
+  "name": "Scan Now",
+  "entity_id": "input_boolean.scan_trigger"
+}
+{
+  "name": "Markus ",
+  "entity_id": "person.markus"
+}
+{
+  "name": "Bibi",
+  "entity_id": "person.bibi"
+}
+{
+  "name": "Echo",
+  "entity_id": "person.echo"
+}
+{
+  "name": "echo",
+  "entity_id": "person.echo_2"
+}
+{
+  "name": "Scanner Input",
+  "entity_id": "input_text.scanner_input"
+}
+{
+  "name": "Scanner Buffer",
+  "entity_id": "input_text.scanner_buffer"
+}
+{
+  "name": "Uhrzeit & Datum",
+  "entity_id": "sensor.time_date"
+}
+{
+  "name": "Scanner Puffer2",
+  "entity_id": "input_text.scanner_puffer2"
+}
+{
+  "name": "Aktueller Radiosender",
+  "entity_id": "input_text.aktueller_radiosender"
+}
+{
+  "name": "helper_last_controller_event_ikea_1",
+  "entity_id": "input_text.helper_last_controller_event_ikea"
+}
+{
+  "name": "helper_FB_Garderobe",
+  "entity_id": "input_text.helper_fb_garderobe"
+}
+{
+  "name": "helper_last_controller_event_ikea_2",
+  "entity_id": "input_text.helper_last_controller_event_ikea_2"
+}
+{
+  "name": "Sun",
+  "entity_id": "sun.sun"
+}
+{
+  "name": "Sun Solare Zunahme",
+  "entity_id": "binary_sensor.sun_solar_rising"
+}
+{
+  "name": "Sun Nächste Morgendämmerung",
+  "entity_id": "sensor.sun_next_dawn"
+}
+{
+  "name": "Sun Nächste Abenddämmerung",
+  "entity_id": "sensor.sun_next_dusk"
+}
+{
+  "name": "Sun Nächste Mitternacht",
+  "entity_id": "sensor.sun_next_midnight"
+}
+{
+  "name": "Sun Nächster Höchststand",
+  "entity_id": "sensor.sun_next_noon"
+}
+{
+  "name": "Sun Nächster Aufgang",
+  "entity_id": "sensor.sun_next_rising"
+}
+{
+  "name": "Sun Nächster Untergang",
+  "entity_id": "sensor.sun_next_setting"
+}
+{
+  "name": "Sun Solare Elevation",
+  "entity_id": "sensor.sun_solar_elevation"
+}
+{
+  "name": "Sun Solarer Azimut",
+  "entity_id": "sensor.sun_solar_azimuth"
+}
+{
+  "name": "Stehlampe_1 Firmware",
+  "entity_id": "update.kajplats_e14_cws_globe_806lm_firmware"
+}
+{
+  "name": "Stehlampe_1 Identifizieren",
+  "entity_id": "button.kajplats_e14_cws_globe_806lm_identifizieren"
+}
+{
+  "name": "Stehlampe_1",
+  "entity_id": "light.kajplats_e14_cws_globe_806lm"
+}
+{
+  "name": "Stehlampe_1 Ein-Level",
+  "entity_id": "number.kajplats_e14_cws_globe_806lm_ein_level"
+}
+{
+  "name": "Stehlampe_1 Ein-Übergangszeit",
+  "entity_id": "number.kajplats_e14_cws_globe_806lm_ein_ubergangszeit"
+}
+{
+  "name": "Stehlampe_1 Aus-Übergangszeit",
+  "entity_id": "number.kajplats_e14_cws_globe_806lm_aus_ubergangszeit"
+}
+{
+  "name": "Stehlampe_1 Ein/Aus-Übergangszeit",
+  "entity_id": "number.kajplats_e14_cws_globe_806lm_ein_aus_ubergangszeit"
+}
+{
+  "name": "Stehlampe_1 Wiedereinschaltverhalten",
+  "entity_id": "select.kajplats_e14_cws_globe_806lm_wiedereinschaltverhalten"
+}
+{
+  "name": "Stehlampe_2 Firmware",
+  "entity_id": "update.kajplats_e14_ws_globe_806lm_firmware"
+}
+{
+  "name": "Stehlampe_2 Identifizieren",
+  "entity_id": "button.kajplats_e14_ws_globe_806lm_identifizieren"
+}
+{
+  "name": "Stehlampe_2",
+  "entity_id": "light.kajplats_e14_ws_globe_806lm"
+}
+{
+  "name": "Stehlampe_2 Ein-Level",
+  "entity_id": "number.kajplats_e14_ws_globe_806lm_ein_level"
+}
+{
+  "name": "Stehlampe_2 Ein-Übergangszeit",
+  "entity_id": "number.kajplats_e14_ws_globe_806lm_ein_ubergangszeit"
+}
+{
+  "name": "Stehlampe_2 Aus-Übergangszeit",
+  "entity_id": "number.kajplats_e14_ws_globe_806lm_aus_ubergangszeit"
+}
+{
+  "name": "Stehlampe_2 Ein/Aus-Übergangszeit",
+  "entity_id": "number.kajplats_e14_ws_globe_806lm_ein_aus_ubergangszeit"
+}
+{
+  "name": "Stehlampe_2 Wiedereinschaltverhalten",
+  "entity_id": "select.kajplats_e14_ws_globe_806lm_wiedereinschaltverhalten"
+}
+{
+  "name": "Stehlampe_3 Firmware",
+  "entity_id": "update.kajplats_e14_ws_globe_806lm_firmware_2"
+}
+{
+  "name": "Stehlampe_3 Identifizieren",
+  "entity_id": "button.kajplats_e14_ws_globe_806lm_identifizieren_2"
+}
+{
+  "name": "Stehlampe_3",
+  "entity_id": "light.kajplats_e14_ws_globe_806lm_2"
+}
+{
+  "name": "Stehlampe_3 Ein-Level",
+  "entity_id": "number.kajplats_e14_ws_globe_806lm_ein_level_2"
+}
+{
+  "name": "Stehlampe_3 Ein-Übergangszeit",
+  "entity_id": "number.kajplats_e14_ws_globe_806lm_ein_ubergangszeit_2"
+}
+{
+  "name": "Stehlampe_3 Aus-Übergangszeit",
+  "entity_id": "number.kajplats_e14_ws_globe_806lm_aus_ubergangszeit_2"
+}
+{
+  "name": "Stehlampe_3 Ein/Aus-Übergangszeit",
+  "entity_id": "number.kajplats_e14_ws_globe_806lm_ein_aus_ubergangszeit_2"
+}
+{
+  "name": "Stehlampe_3 Wiedereinschaltverhalten",
+  "entity_id": "select.kajplats_e14_ws_globe_806lm_wiedereinschaltverhalten_2"
+}
+{
+  "name": "BILRESA dual button Batterie",
+  "entity_id": "sensor.bilresa_dual_button_batterie"
+}
+{
+  "name": "BILRESA dual button Batteriespannung",
+  "entity_id": "sensor.bilresa_dual_button_batteriespannung"
+}
+{
+  "name": "BILRESA dual button Batterietyp",
+  "entity_id": "sensor.bilresa_dual_button_batterietyp"
+}
+{
+  "name": "BILRESA dual button Firmware",
+  "entity_id": "update.bilresa_dual_button_firmware"
+}
+{
+  "name": "BILRESA dual button Taste (1)",
+  "entity_id": "event.bilresa_dual_button_taste_1"
+}
+{
+  "name": "BILRESA dual button Taste (2)",
+  "entity_id": "event.bilresa_dual_button_taste_2"
+}
+{
+  "name": "Flur Licht Firmware",
+  "entity_id": "update.kajplats_e27_ws_globe_470lm_firmware"
+}
+{
+  "name": "Flur Licht Identifizieren",
+  "entity_id": "button.kajplats_e27_ws_globe_470lm_identifizieren"
+}
+{
+  "name": "Flur Licht",
+  "entity_id": "light.kajplats_e27_ws_globe_470lm"
+}
+{
+  "name": "Flur Licht Ein-Level",
+  "entity_id": "number.kajplats_e27_ws_globe_470lm_ein_level"
+}
+{
+  "name": "Flur Licht Ein-Übergangszeit",
+  "entity_id": "number.kajplats_e27_ws_globe_470lm_ein_ubergangszeit"
+}
+{
+  "name": "Flur Licht Aus-Übergangszeit",
+  "entity_id": "number.kajplats_e27_ws_globe_470lm_aus_ubergangszeit"
+}
+{
+  "name": "Flur Licht Ein/Aus-Übergangszeit",
+  "entity_id": "number.kajplats_e27_ws_globe_470lm_ein_aus_ubergangszeit"
+}
+{
+  "name": "Flur Licht Wiedereinschaltverhalten",
+  "entity_id": "select.kajplats_e27_ws_globe_470lm_wiedereinschaltverhalten"
+}
+{
+  "name": "sensor Cost",
+  "entity_id": "sensor.stern_bibi_s_buro_energy_cost"
+}
+{
+  "name": "Brother MFC-L2710DW series BK",
+  "entity_id": "sensor.brother_mfc_l2710dw_series_bk"
+}
+{
+  "name": "Audible alarm Alarm duration",
+  "entity_id": "number.audible_alarm_alarm_duration"
+}
+{
+  "name": "Audible alarm State",
+  "entity_id": "select.audible_alarm_state"
+}
+{
+  "name": "Audible alarm Volume",
+  "entity_id": "select.audible_alarm_volume"
+}
+{
+  "name": "Google Translate en com",
+  "entity_id": "tts.google_translate_en_com"
+}
+{
+  "name": "Electricity Maps CO₂-Intensität",
+  "entity_id": "sensor.electricity_maps_co2_intensitat"
+}
+{
+  "name": "Electricity Maps Anteil fossiler Energieträger",
+  "entity_id": "sensor.electricity_maps_anteil_fossiler_energietrager"
+}
+{
+  "name": "MFC-L2710DW Status",
+  "entity_id": "sensor.mfc_l2710dw_status"
+}
+{
+  "name": "MFC-L2710DW Seitenzähler",
+  "entity_id": "sensor.mfc_l2710dw_seitenzahler"
+}
+{
+  "name": "MFC-L2710DW Seitenzähler der Duplexeinheit",
+  "entity_id": "sensor.mfc_l2710dw_seitenzahler_der_duplexeinheit"
+}
+{
+  "name": "MFC-L2710DW Restlebensdauer der Trommel",
+  "entity_id": "sensor.mfc_l2710dw_restlebensdauer_der_trommel"
+}
+{
+  "name": "MFC-L2710DW Restseiten der Trommel",
+  "entity_id": "sensor.mfc_l2710dw_restseiten_der_trommel"
+}
+{
+  "name": "MFC-L2710DW Seitenzähler der Trommel",
+  "entity_id": "sensor.mfc_l2710dw_seitenzahler_der_trommel"
+}
+{
+  "name": "MFC-L2710DW Verbleibender Schwarz-Toner",
+  "entity_id": "sensor.mfc_l2710dw_verbleibender_schwarz_toner"
+}
+{
+  "name": "Watchman Last Update",
+  "entity_id": "sensor.watchman_last_updated"
+}
+{
+  "name": "Watchman Missing Entities",
+  "entity_id": "sensor.watchman_missing_entities"
+}
+{
+  "name": "Watchman Missing Actions",
+  "entity_id": "sensor.watchman_missing_actions"
+}
+{
+  "name": "Watchman Status",
+  "entity_id": "sensor.watchman_status"
+}
+{
+  "name": "Watchman Parse Duration",
+  "entity_id": "sensor.watchman_parse_duration"
+}
+{
+  "name": "Watchman Last Parse",
+  "entity_id": "sensor.watchman_last_parse"
+}
+{
+  "name": "Watchman Processed Files",
+  "entity_id": "sensor.watchman_processed_files"
+}
+{
+  "name": "Watchman Ignored Files",
+  "entity_id": "sensor.watchman_ignored_files"
+}
+{
+  "name": "Ignored Labels",
+  "entity_id": "text.watchman_ignored_labels"
+}
+{
+  "name": "Watchman Create Report File",
+  "entity_id": "button.watchman_create_report_file"
+}
+{
+  "name": "HD1903 Android Auto",
+  "entity_id": "binary_sensor.hd1903_android_auto"
+}
+{
+  "name": "HD1903 App inactive",
+  "entity_id": "binary_sensor.hd1903_app_inactive"
+}
+{
+  "name": "HD1903 Speakerphone",
+  "entity_id": "binary_sensor.hd1903_speakerphone"
+}
+{
+  "name": "HD1903 Is charging",
+  "entity_id": "binary_sensor.hd1903_is_charging"
+}
+{
+  "name": "HD1903 Bluetooth state",
+  "entity_id": "binary_sensor.hd1903_bluetooth_state"
+}
+{
+  "name": "HD1903 Mobile data",
+  "entity_id": "binary_sensor.hd1903_mobile_data"
+}
+{
+  "name": "HD1903 Mobile data roaming",
+  "entity_id": "binary_sensor.hd1903_mobile_data_roaming"
+}
+{
+  "name": "HD1903 NFC state",
+  "entity_id": "binary_sensor.hd1903_nfc_state"
+}
+{
+  "name": "HD1903 Interactive",
+  "entity_id": "binary_sensor.hd1903_interactive"
+}
+{
+  "name": "HD1903 Power save",
+  "entity_id": "binary_sensor.hd1903_power_save"
+}
+{
+  "name": "HD1903",
+  "entity_id": "device_tracker.hd1903"
+}
+{
+  "name": "HD1903 Detected activity",
+  "entity_id": "sensor.hd1903_detected_activity"
+}
+{
+  "name": "HD1903 Sleep confidence",
+  "entity_id": "sensor.hd1903_sleep_confidence"
+}
+{
+  "name": "HD1903 Sleep segment",
+  "entity_id": "sensor.hd1903_sleep_segment"
+}
+{
+  "name": "HD1903 OS version",
+  "entity_id": "sensor.hd1903_os_version"
+}
+{
+  "name": "HD1903 Current version",
+  "entity_id": "sensor.hd1903_current_version"
+}
+{
+  "name": "HD1903 App Rx GB",
+  "entity_id": "sensor.hd1903_app_rx_gb"
+}
+{
+  "name": "HD1903 App Tx GB",
+  "entity_id": "sensor.hd1903_app_tx_gb"
+}
+{
+  "name": "HD1903 App memory",
+  "entity_id": "sensor.hd1903_app_memory"
+}
+{
+  "name": "HD1903 App standby bucket",
+  "entity_id": "sensor.hd1903_app_standby_bucket"
+}
+{
+  "name": "HD1903 App importance",
+  "entity_id": "sensor.hd1903_app_importance"
+}
+{
+  "name": "HD1903 Ringer mode",
+  "entity_id": "sensor.hd1903_ringer_mode"
+}
+{
+  "name": "HD1903 Audio mode",
+  "entity_id": "sensor.hd1903_audio_mode"
+}
+{
+  "name": "HD1903 Volume level call",
+  "entity_id": "sensor.hd1903_volume_level_call"
+}
+{
+  "name": "HD1903 Volume level music",
+  "entity_id": "sensor.hd1903_volume_level_music"
+}
+{
+  "name": "HD1903 Volume level ringer",
+  "entity_id": "sensor.hd1903_volume_level_ringer"
+}
+{
+  "name": "HD1903 Volume level notification",
+  "entity_id": "sensor.hd1903_volume_level_notification"
+}
+{
+  "name": "HD1903 Battery level",
+  "entity_id": "sensor.hd1903_battery_level"
+}
+{
+  "name": "HD1903 Battery state",
+  "entity_id": "sensor.hd1903_battery_state"
+}
+{
+  "name": "HD1903 Charger type",
+  "entity_id": "sensor.hd1903_charger_type"
+}
+{
+  "name": "HD1903 Battery health",
+  "entity_id": "sensor.hd1903_battery_health"
+}
+{
+  "name": "HD1903 Battery temperature",
+  "entity_id": "sensor.hd1903_battery_temperature"
+}
+{
+  "name": "HD1903 Battery power",
+  "entity_id": "sensor.hd1903_battery_power"
+}
+{
+  "name": "HD1903 Remaining charge time",
+  "entity_id": "sensor.hd1903_remaining_charge_time"
+}
+{
+  "name": "HD1903 Bluetooth connection",
+  "entity_id": "sensor.hd1903_bluetooth_connection"
+}
+{
+  "name": "HD1903 Car fuel type",
+  "entity_id": "sensor.hd1903_car_fuel_type"
+}
+{
+  "name": "HD1903 Car odometer",
+  "entity_id": "sensor.hd1903_car_odometer"
+}
+{
+  "name": "HD1903 Car speed",
+  "entity_id": "sensor.hd1903_car_speed"
+}
+{
+  "name": "HD1903 Wi-Fi IP address",
+  "entity_id": "sensor.hd1903_wi_fi_ip_address"
+}
+{
+  "name": "HD1903 Wi-Fi link speed",
+  "entity_id": "sensor.hd1903_wi_fi_link_speed"
+}
+{
+  "name": "HD1903 Network type",
+  "entity_id": "sensor.hd1903_network_type"
+}
+{
+  "name": "HD1903 Next alarm",
+  "entity_id": "sensor.hd1903_next_alarm"
+}
+{
+  "name": "HD1903 Last notification",
+  "entity_id": "sensor.hd1903_last_notification"
+}
+{
+  "name": "HD1903 Active notification count",
+  "entity_id": "sensor.hd1903_active_notification_count"
+}
+{
+  "name": "HD1903 SIM 2",
+  "entity_id": "sensor.hd1903_sim_2"
+}
+{
+  "name": "HD1903 Internal storage",
+  "entity_id": "sensor.hd1903_internal_storage"
+}
+{
+  "name": "HD1903 Mobile Rx GB",
+  "entity_id": "sensor.hd1903_mobile_rx_gb"
+}
+{
+  "name": "HD1903 Mobile Tx GB",
+  "entity_id": "sensor.hd1903_mobile_tx_gb"
+}
+{
+  "name": "HD1903 Total Rx GB",
+  "entity_id": "sensor.hd1903_total_rx_gb"
+}
+{
+  "name": "HD1903 Total Tx GB",
+  "entity_id": "sensor.hd1903_total_tx_gb"
+}
+{
+  "name": "HD1903 Sleep duration",
+  "entity_id": "sensor.hd1903_sleep_duration"
+}
+{
+  "name": "OnePlus Watch 2R 0099",
+  "entity_id": "device_tracker.oneplus_watch_2r_0099"
+}
+{
+  "name": "OnePlus Watch 2R 0099 Battery level",
+  "entity_id": "sensor.oneplus_watch_2r_0099_battery_level"
+}
+{
+  "name": "OnePlus Watch 2R 0099 Battery state",
+  "entity_id": "sensor.oneplus_watch_2r_0099_battery_state"
+}
+{
+  "name": "OnePlus Watch 2R 0099 Charger type",
+  "entity_id": "sensor.oneplus_watch_2r_0099_charger_type"
+}
+{
+  "name": "Bibi ",
+  "entity_id": "device_tracker.bibi"
+}
+{
+  "name": "Bibi  Battery level",
+  "entity_id": "sensor.bibi_battery_level"
+}
+{
+  "name": "Bibi  Battery state",
+  "entity_id": "sensor.bibi_battery_state"
+}
+{
+  "name": "Bibi  Charger type",
+  "entity_id": "sensor.bibi_charger_type"
+}
+{
+  "name": "Bibi  Battery health",
+  "entity_id": "sensor.bibi_battery_health"
+}
+{
+  "name": "Google AI Conversation",
+  "entity_id": "conversation.google_ai_conversation_2"
+}
+{
+  "name": "Google AI TTS",
+  "entity_id": "tts.google_ai_tts"
+}
+{
+  "name": "Google AI Task",
+  "entity_id": "ai_task.google_ai_task"
+}
+{
+  "name": "Einkaufsliste",
+  "entity_id": "todo.einkaufsliste"
+}
+{
+  "name": "Grocy stock",
+  "entity_id": "sensor.grocy_stock"
+}
+{
+  "name": "Grocy shopping list",
+  "entity_id": "todo.grocy_shopping_list"
+}
+{
+  "name": "Grocy stock",
+  "entity_id": "todo.grocy_stock"
+}
+{
+  "name": "Meross LAN update",
+  "entity_id": "update.meross_lan_update"
+}
+{
+  "name": "Adaptive Lighting update",
+  "entity_id": "update.adaptive_lighting_update"
+}
+{
+  "name": "Bubble Card update",
+  "entity_id": "update.bubble_card_update"
+}
+{
+  "name": "extended_openai_conversation update",
+  "entity_id": "update.extended_openai_conversation_update"
+}
+{
+  "name": "Spook 👻 Your homie update",
+  "entity_id": "update.spook_your_homie_update"
+}
+{
+  "name": "Shopping List With Grocy Card update",
+  "entity_id": "update.shopping_list_with_grocy_card_update"
+}
+{
+  "name": "Music Assistant Player Card update",
+  "entity_id": "update.music_assistant_player_card_update"
+}
+{
+  "name": "card-mod update",
+  "entity_id": "update.card_mod_update"
+}
+{
+  "name": "Kiosk Mode update",
+  "entity_id": "update.kiosk_mode_update"
+}
+{
+  "name": "Weather Card Extended update",
+  "entity_id": "update.weather_card_extended_update"
+}
+{
+  "name": "button-card update",
+  "entity_id": "update.button_card_update"
+}
+{
+  "name": "bootstrap-grid-card update",
+  "entity_id": "update.bootstrap_grid_card_update"
+}
+{
+  "name": "Battery Notes update",
+  "entity_id": "update.battery_notes_update"
+}
+{
+  "name": "auto-entities update",
+  "entity_id": "update.auto_entities_update"
+}
+{
+  "name": "Collapsable cards update",
+  "entity_id": "update.collapsable_cards_update"
+}
+{
+  "name": "Alexa Media Player update",
+  "entity_id": "update.alexa_media_player_update"
+}
+{
+  "name": "ytube_music_player update",
+  "entity_id": "update.ytube_music_player_update"
+}
+{
+  "name": "Shopping List with Grocy update",
+  "entity_id": "update.shopping_list_with_grocy_update"
+}
+{
+  "name": "layout-card update",
+  "entity_id": "update.layout_card_update"
+}
+{
+  "name": "Local Tuya update",
+  "entity_id": "update.local_tuya_update"
+}
+{
+  "name": "View Assist Companion App update",
+  "entity_id": "update.view_assist_companion_app_update"
+}
+{
+  "name": "Clock Weather Card update",
+  "entity_id": "update.clock_weather_card_update"
+}
+{
+  "name": "Meshtastic update",
+  "entity_id": "update.meshtastic_update"
+}
+{
+  "name": "Better Thermostat UI update",
+  "entity_id": "update.better_thermostat_ui_update"
+}
+{
+  "name": "Grocy custom component update",
+  "entity_id": "update.grocy_custom_component_update"
+}
+{
+  "name": "Deutscher Wetterdienst update",
+  "entity_id": "update.deutscher_wetterdienst_update"
+}
+{
+  "name": "status-card update",
+  "entity_id": "update.status_card_update"
+}
+{
+  "name": "Music Assistant Queue Actions update",
+  "entity_id": "update.music_assistant_queue_actions_update"
+}
+{
+  "name": "Battery State Card / Entity Row update",
+  "entity_id": "update.battery_state_card_entity_row_update"
+}
+{
+  "name": "Vacuum Card update",
+  "entity_id": "update.vacuum_card_update"
+}
+{
+  "name": "Alarmo update",
+  "entity_id": "update.alarmo_update"
+}
+{
+  "name": "Better Thermostat update",
+  "entity_id": "update.better_thermostat_update"
+}
+{
+  "name": "Watchman update",
+  "entity_id": "update.watchman_update"
+}
+{
+  "name": "AI Agent HA update",
+  "entity_id": "update.ai_agent_ha_update"
+}
+{
+  "name": "Mini Media Player update",
+  "entity_id": "update.mini_media_player_update"
+}
+{
+  "name": "Universal Notifier update",
+  "entity_id": "update.universal_notifier_update"
+}
+{
+  "name": "HACS update",
+  "entity_id": "update.hacs_update"
+}
+{
+  "name": "Brother MFC-L2710DW series",
+  "entity_id": "sensor.brother_mfc_l2710dw_series"
+}
+{
+  "name": "Grocy calendar",
+  "entity_id": "calendar.grocy_calendar"
+}
+{
+  "name": "Satellite RGB",
+  "entity_id": "camera.satellite_rgb"
+}
+{
+  "name": "Grocy expired products",
+  "entity_id": "binary_sensor.grocy_expired_products"
+}
+{
+  "name": "Anthropic: Claude Sonnet 4.5",
+  "entity_id": "ai_task.anthropic_claude_sonnet_4_5"
+}
+{
+  "name": "Perplexity: Sonar",
+  "entity_id": "conversation.perplexity_sonar"
+}
+{
+  "name": "Forecast Home",
+  "entity_id": "weather.forecast_home"
+}
+{
+  "name": "NINA Warning: Freudenstadt, Stadt (Freudenstadt - Baden-Württemberg) 1",
+  "entity_id": "binary_sensor.nina_warning_freudenstadt_stadt_freudenstadt_baden_wurttemberg_1"
+}
+{
+  "name": "NINA Warning: Freudenstadt, Stadt (Freudenstadt - Baden-Württemberg) 2",
+  "entity_id": "binary_sensor.nina_warning_freudenstadt_stadt_freudenstadt_baden_wurttemberg_2"
+}
+{
+  "name": "NINA Warning: Freudenstadt, Stadt (Freudenstadt - Baden-Württemberg) 3",
+  "entity_id": "binary_sensor.nina_warning_freudenstadt_stadt_freudenstadt_baden_wurttemberg_3"
+}
+{
+  "name": "NINA Warning: Freudenstadt, Stadt (Freudenstadt - Baden-Württemberg) 4",
+  "entity_id": "binary_sensor.nina_warning_freudenstadt_stadt_freudenstadt_baden_wurttemberg_4"
+}
+{
+  "name": "NINA Warning: Freudenstadt, Stadt (Freudenstadt - Baden-Württemberg) 5",
+  "entity_id": "binary_sensor.nina_warning_freudenstadt_stadt_freudenstadt_baden_wurttemberg_5"
+}
+{
+  "name": "Season",
+  "entity_id": "sensor.season"
+}
+{
+  "name": "Unbekannt 2 Konnektivität",
+  "entity_id": "binary_sensor.bad_neu_konnektivitat"
+}
+{
+  "name": "Wohnzimmer1 Konnektivität",
+  "entity_id": "binary_sensor.wohnzimmer1_konnektivitat"
+}
+{
+  "name": "Show Markus Konnektivität",
+  "entity_id": "binary_sensor.show_markus_konnektivitat"
+}
+{
+  "name": "Unbekannt Konnektivität",
+  "entity_id": "binary_sensor.schlafzimmer_konnektivitat"
+}
+{
+  "name": "Raibles 2. FireTVStick Konnektivität",
+  "entity_id": "binary_sensor.raibles_2_firetvstick_konnektivitat"
+}
+{
+  "name": "Bad Konnektivität",
+  "entity_id": "binary_sensor.bad_konnektivitat"
+}
+{
+  "name": "Schlafzimmer 1 Konnektivität",
+  "entity_id": "binary_sensor.kuche1_konnektivitat"
+}
+{
+  "name": "Raibles 3. FireTVStick Konnektivität",
+  "entity_id": "binary_sensor.raibles_3_firetvstick_konnektivitat"
+}
+{
+  "name": "Echo show Esszimmer Konnektivität",
+  "entity_id": "binary_sensor.echo_show_esszimmer_konnektivitat"
+}
+{
+  "name": "Wohnzimmer1 Bewegung",
+  "entity_id": "binary_sensor.wohnzimmer1_bewegung"
+}
+{
+  "name": "Schlafzimmer 1 Bewegung",
+  "entity_id": "binary_sensor.kuche1_bewegung"
+}
+{
+  "name": "Unbekannt 2 Sprechen",
+  "entity_id": "notify.bad_neu_sprechen"
+}
+{
+  "name": "Wohnzimmer1 Sprechen",
+  "entity_id": "notify.wohnzimmer1_sprechen"
+}
+{
+  "name": "Show Markus Sprechen",
+  "entity_id": "notify.show_markus_sprechen"
+}
+{
+  "name": "Unbekannt Sprechen",
+  "entity_id": "notify.schlafzimmer_sprechen"
+}
+{
+  "name": "Bad Sprechen",
+  "entity_id": "notify.bad_sprechen"
+}
+{
+  "name": "Schlafzimmer 1 Sprechen",
+  "entity_id": "notify.kuche1_sprechen"
+}
+{
+  "name": "Echo show Esszimmer Sprechen",
+  "entity_id": "notify.echo_show_esszimmer_sprechen"
+}
+{
+  "name": "Unbekannt 2 Durchsagen",
+  "entity_id": "notify.bad_neu_durchsagen"
+}
+{
+  "name": "Wohnzimmer1 Durchsagen",
+  "entity_id": "notify.wohnzimmer1_durchsagen"
+}
+{
+  "name": "Show Markus Durchsagen",
+  "entity_id": "notify.show_markus_durchsagen"
+}
+{
+  "name": "Unbekannt Durchsagen",
+  "entity_id": "notify.schlafzimmer_durchsagen"
+}
+{
+  "name": "Bad Durchsagen",
+  "entity_id": "notify.bad_durchsagen"
+}
+{
+  "name": "Schlafzimmer 1 Durchsagen",
+  "entity_id": "notify.kuche1_durchsagen"
+}
+{
+  "name": "Echo show Esszimmer Durchsagen",
+  "entity_id": "notify.echo_show_esszimmer_durchsagen"
+}
+{
+  "name": "Schlafzimmer 1 Temperatur",
+  "entity_id": "sensor.kuche1_temperatur"
+}
+{
+  "name": "Wohnzimmer1 Beleuchtungsstärke",
+  "entity_id": "sensor.wohnzimmer1_beleuchtungsstarke"
+}
+{
+  "name": "Schlafzimmer 1 Beleuchtungsstärke",
+  "entity_id": "sensor.kuche1_beleuchtungsstarke"
+}
+{
+  "name": "Unbekannt 2 Nächster Wecker",
+  "entity_id": "sensor.bad_neu_nachster_wecker"
+}
+{
+  "name": "Wohnzimmer1 Nächster Wecker",
+  "entity_id": "sensor.wohnzimmer1_nachster_wecker"
+}
+{
+  "name": "Show Markus Nächster Wecker",
+  "entity_id": "sensor.show_markus_nachster_wecker"
+}
+{
+  "name": "Unbekannt Nächster Wecker",
+  "entity_id": "sensor.schlafzimmer_nachster_wecker"
+}
+{
+  "name": "Raibles 2. FireTVStick Nächster Wecker",
+  "entity_id": "sensor.raibles_2_firetvstick_nachster_wecker"
+}
+{
+  "name": "Bad Nächster Wecker",
+  "entity_id": "sensor.bad_nachster_wecker"
+}
+{
+  "name": "Schlafzimmer 1 Nächster Wecker",
+  "entity_id": "sensor.kuche1_nachster_wecker"
+}
+{
+  "name": "Raibles 3. FireTVStick Nächster Wecker",
+  "entity_id": "sensor.raibles_3_firetvstick_nachster_wecker"
+}
+{
+  "name": "Echo show Esszimmer Nächster Wecker",
+  "entity_id": "sensor.echo_show_esszimmer_nachster_wecker"
+}
+{
+  "name": "Unbekannt 2 Nächste Erinnerung",
+  "entity_id": "sensor.bad_neu_nachste_erinnerung"
+}
+{
+  "name": "Wohnzimmer1 Nächste Erinnerung",
+  "entity_id": "sensor.wohnzimmer1_nachste_erinnerung"
+}
+{
+  "name": "Show Markus Nächste Erinnerung",
+  "entity_id": "sensor.show_markus_nachste_erinnerung"
+}
+{
+  "name": "Unbekannt Nächste Erinnerung",
+  "entity_id": "sensor.schlafzimmer_nachste_erinnerung"
+}
+{
+  "name": "Raibles 2. FireTVStick Nächste Erinnerung",
+  "entity_id": "sensor.raibles_2_firetvstick_nachste_erinnerung"
+}
+{
+  "name": "Bad Nächste Erinnerung",
+  "entity_id": "sensor.bad_nachste_erinnerung"
+}
+{
+  "name": "Schlafzimmer 1 Nächste Erinnerung",
+  "entity_id": "sensor.kuche1_nachste_erinnerung"
+}
+{
+  "name": "Raibles 3. FireTVStick Nächste Erinnerung",
+  "entity_id": "sensor.raibles_3_firetvstick_nachste_erinnerung"
+}
+{
+  "name": "Echo show Esszimmer Nächste Erinnerung",
+  "entity_id": "sensor.echo_show_esszimmer_nachste_erinnerung"
+}
+{
+  "name": "Unbekannt 2 Nächster Timer",
+  "entity_id": "sensor.bad_neu_nachster_timer"
+}
+{
+  "name": "Wohnzimmer1 Nächster Timer",
+  "entity_id": "sensor.wohnzimmer1_nachster_timer"
+}
+{
+  "name": "Show Markus Nächster Timer",
+  "entity_id": "sensor.show_markus_nachster_timer"
+}
+{
+  "name": "Unbekannt Nächster Timer",
+  "entity_id": "sensor.schlafzimmer_nachster_timer"
+}
+{
+  "name": "Raibles 2. FireTVStick Nächster Timer",
+  "entity_id": "sensor.raibles_2_firetvstick_nachster_timer"
+}
+{
+  "name": "Bad Nächster Timer",
+  "entity_id": "sensor.bad_nachster_timer"
+}
+{
+  "name": "Schlafzimmer 1 Nächster Timer",
+  "entity_id": "sensor.kuche1_nachster_timer"
+}
+{
+  "name": "Raibles 3. FireTVStick Nächster Timer",
+  "entity_id": "sensor.raibles_3_firetvstick_nachster_timer"
+}
+{
+  "name": "Echo show Esszimmer Nächster Timer",
+  "entity_id": "sensor.echo_show_esszimmer_nachster_timer"
+}
+{
+  "name": "Unbekannt 2 Bitte nicht stören",
+  "entity_id": "switch.bad_neu_bitte_nicht_storen"
+}
+{
+  "name": "Wohnzimmer1 Bitte nicht stören",
+  "entity_id": "switch.wohnzimmer1_bitte_nicht_storen"
+}
+{
+  "name": "Show Markus Bitte nicht stören",
+  "entity_id": "switch.show_markus_bitte_nicht_storen"
+}
+{
+  "name": "Unbekannt Bitte nicht stören",
+  "entity_id": "switch.schlafzimmer_bitte_nicht_storen"
+}
+{
+  "name": "Raibles 2. FireTVStick Bitte nicht stören",
+  "entity_id": "switch.raibles_2_firetvstick_bitte_nicht_storen"
+}
+{
+  "name": "Bad Bitte nicht stören",
+  "entity_id": "switch.bad_bitte_nicht_storen"
+}
+{
+  "name": "Schlafzimmer 1 Bitte nicht stören",
+  "entity_id": "switch.kuche1_bitte_nicht_storen"
+}
+{
+  "name": "Raibles 3. FireTVStick Bitte nicht stören",
+  "entity_id": "switch.raibles_3_firetvstick_bitte_nicht_storen"
+}
+{
+  "name": "Echo show Esszimmer Bitte nicht stören",
+  "entity_id": "switch.echo_show_esszimmer_bitte_nicht_storen"
+}
+{
+  "name": "Freudenstadt",
+  "entity_id": "weather.freudenstadt"
+}
+{
+  "name": "Hauseingang Tür öffnen",
+  "entity_id": "button.hauseingang_tur_offnen"
+}
+{
+  "name": "Hauseingang Klingeln",
+  "entity_id": "event.hauseingang_klingeln"
+}
+{
+  "name": "Hauseingang Gegensprechanlage entsperren",
+  "entity_id": "event.hauseingang_gegensprechanlage_entsperren"
+}
+{
+  "name": "Hauseingang Türklingel-Lautstärke",
+  "entity_id": "number.hauseingang_turklingel_lautstarke"
+}
+{
+  "name": "Hauseingang Mikrofon-Lautstärke",
+  "entity_id": "number.hauseingang_mikrofon_lautstarke"
+}
+{
+  "name": "Hauseingang Sprach-Lautstärke",
+  "entity_id": "number.hauseingang_sprach_lautstarke"
+}
+{
+  "name": "Hauseingang Batterie",
+  "entity_id": "sensor.hauseingang_batterie"
+}
+{
+  "name": "Hauseingang Letzte Aktivität",
+  "entity_id": "sensor.hauseingang_letzte_aktivitat"
+}
+{
+  "name": "Hauseingang Signalstärke",
+  "entity_id": "sensor.hauseingang_signalstarke"
+}
+{
+  "name": "SLZB-06_Matter Ethernet",
+  "entity_id": "binary_sensor.slzb_06_matter_ethernet"
+}
+{
+  "name": "SLZB-06_Matter Kern-Neustart",
+  "entity_id": "button.slzb_06_matter_kern_neustart"
+}
+{
+  "name": "SLZB-06_Matter Zigbee-Neustart",
+  "entity_id": "button.slzb_06_matter_zigbee_neustart"
+}
+{
+  "name": "SLZB-06_Matter Verbindungsmodus",
+  "entity_id": "sensor.slzb_06_matter_verbindungsmodus"
+}
+{
+  "name": "SLZB-06_Matter Firmware-Kanal",
+  "entity_id": "sensor.slzb_06_matter_firmware_kanal"
+}
+{
+  "name": "SLZB-06_Matter Core-Chip-Temperatur",
+  "entity_id": "sensor.slzb_06_matter_core_chip_temperatur"
+}
+{
+  "name": "SLZB-06_Matter Zigbee-Chip-Temperatur",
+  "entity_id": "sensor.slzb_06_matter_zigbee_chip_temperatur"
+}
+{
+  "name": "SLZB-06_Matter Zigbee-Typ",
+  "entity_id": "sensor.slzb_06_matter_zigbee_typ"
+}
+{
+  "name": "SLZB-06_Matter LEDs deaktivieren",
+  "entity_id": "switch.slzb_06_matter_leds_deaktivieren"
+}
+{
+  "name": "SLZB-06_Matter LED-Nachtmodus",
+  "entity_id": "switch.slzb_06_matter_led_nachtmodus"
+}
+{
+  "name": "SLZB-06_Matter Core-Firmware",
+  "entity_id": "update.slzb_06_matter_core_firmware"
+}
+{
+  "name": "SLZB-06_Matter Zigbee-Firmware",
+  "entity_id": "update.slzb_06_matter_zigbee_firmware"
+}
+{
+  "name": "SLZB-06 Ethernet",
+  "entity_id": "binary_sensor.slzb_06_ethernet"
+}
+{
+  "name": "SLZB-06 WLAN",
+  "entity_id": "binary_sensor.slzb_06_wlan"
+}
+{
+  "name": "SLZB-06 Kern-Neustart",
+  "entity_id": "button.slzb_06_kern_neustart"
+}
+{
+  "name": "SLZB-06 Zigbee-Neustart",
+  "entity_id": "button.slzb_06_zigbee_neustart"
+}
+{
+  "name": "SLZB-06 Verbindungsmodus",
+  "entity_id": "sensor.slzb_06_verbindungsmodus"
+}
+{
+  "name": "SLZB-06 Firmware-Kanal",
+  "entity_id": "sensor.slzb_06_firmware_kanal"
+}
+{
+  "name": "SLZB-06 Core-Chip-Temperatur",
+  "entity_id": "sensor.slzb_06_core_chip_temperatur"
+}
+{
+  "name": "SLZB-06 Zigbee-Chip-Temperatur",
+  "entity_id": "sensor.slzb_06_zigbee_chip_temperatur"
+}
+{
+  "name": "SLZB-06 RAM-Nutzung",
+  "entity_id": "sensor.slzb_06_ram_nutzung"
+}
+{
+  "name": "SLZB-06 Dateisystemnutzung",
+  "entity_id": "sensor.slzb_06_dateisystemnutzung"
+}
+{
+  "name": "Core-Betriebszeit",
+  "entity_id": "sensor.slzb_06_core_betriebszeit"
+}
+{
+  "name": "SLZB-06 Zigbee-Betriebszeit",
+  "entity_id": "sensor.slzb_06_zigbee_betriebszeit"
+}
+{
+  "name": "SLZB-06 Zigbee-Typ",
+  "entity_id": "sensor.slzb_06_zigbee_typ"
+}
+{
+  "name": "SLZB-06 LEDs deaktivieren",
+  "entity_id": "switch.slzb_06_leds_deaktivieren"
+}
+{
+  "name": "SLZB-06 LED-Nachtmodus",
+  "entity_id": "switch.slzb_06_led_nachtmodus"
+}
+{
+  "name": "SLZB-06 Core-Firmware",
+  "entity_id": "update.slzb_06_core_firmware"
+}
+{
+  "name": "SLZB-06 Zigbee-Firmware",
+  "entity_id": "update.slzb_06_zigbee_firmware"
+}
+{
+  "name": "Grocy Shopping Suggestions",
+  "entity_id": "sensor.grocy_shopping_suggestions"
+}
+{
+  "name": "Grocy Multiple Choices",
+  "entity_id": "sensor.grocy_multiple_choices"
+}
+{
+  "name": "Shopping List Items",
+  "entity_id": "sensor.shopping_list_with_grocy_shopping_list"
+}
+{
+  "name": "Product Items",
+  "entity_id": "sensor.shopping_list_with_grocy_products"
+}
+{
+  "name": "Apfelmus",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_10"
+}
+{
+  "name": "Apfelrotkohl",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_18"
+}
+{
+  "name": "Ariel Color+ 20 Waschgänge, Flüssigwaschmittel",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_54"
+}
+{
+  "name": "Bayerisch süßer Hausmachersenf",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_24"
+}
+{
+  "name": "Bio Knuspermüsli mit getrockneten Äpfeln und gerösteten Mandeln",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_39"
+}
+{
+  "name": "Bio-Wienerle",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_17"
+}
+{
+  "name": "Chili von Carne",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_43"
+}
+{
+  "name": "Cornichons",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_20"
+}
+{
+  "name": "Delikatess Brühe",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_25"
+}
+{
+  "name": "Dovgan iebiez.piens",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_47"
+}
+{
+  "name": "FUSILLI",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_30"
+}
+{
+  "name": "Fairer Bio Kaffee",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_41"
+}
+{
+  "name": "Farfalle",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_29"
+}
+{
+  "name": "Gehackte Tomaten",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_6"
+}
+{
+  "name": "Gemüsebrühe",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_26"
+}
+{
+  "name": "Glasreiniger",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_8"
+}
+{
+  "name": "H-Vollmilch, 3,5 % Fett",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_36"
+}
+{
+  "name": "Haferflocken feinblatt",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_40"
+}
+{
+  "name": "Haltbare Milch 3,8% Fett",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_37"
+}
+{
+  "name": "Hundefutter",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_53"
+}
+{
+  "name": "Hundeleckerli",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_35"
+}
+{
+  "name": "Hörnchen, Nudeln",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_34"
+}
+{
+  "name": "Hühner Nudeltopf",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_42"
+}
+{
+  "name": "IceTea Sirup Pfirsich",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_9"
+}
+{
+  "name": "Kaffebohnen",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_50"
+}
+{
+  "name": "Kartoffel-Püree (Portionsbeutel)",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_27"
+}
+{
+  "name": "Kartoffelpüree",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_28"
+}
+{
+  "name": "Kidney Bohnen",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_13"
+}
+{
+  "name": "Kidney Bohnen 2",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_14"
+}
+{
+  "name": "Knusper Vollkorn-Müsli mit 6% Schokoladenblättchen und 4% Karamellstückchen",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_38"
+}
+{
+  "name": "Knöpfle",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_33"
+}
+{
+  "name": "Küchenrolle",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_48"
+}
+{
+  "name": "LINSEN EINTOPF",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_44"
+}
+{
+  "name": "Penne",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_31"
+}
+{
+  "name": "Pesto alla Genovese",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_23"
+}
+{
+  "name": "Pfefferminz Lutschen",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_4"
+}
+{
+  "name": "Ravioli Bolognese",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_45"
+}
+{
+  "name": "Red pesto",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_1"
+}
+{
+  "name": "Reines Alpensalz aus Natursole",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_15"
+}
+{
+  "name": "Sauce Pesto avec basilic et huile d'olive vierge extra 1%",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_19"
+}
+{
+  "name": "Sonnenmais (Small)",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_21"
+}
+{
+  "name": "Spaghetti",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_32"
+}
+{
+  "name": "Tabak - Bättchen Nelson",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_55"
+}
+{
+  "name": "Taschentücher Box",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_51"
+}
+{
+  "name": "Toilettenpapier",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_49"
+}
+{
+  "name": "Tomaten passiert ",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_16"
+}
+{
+  "name": "Tomaten-Nudeltopf mit Fleischbällchen",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_46"
+}
+{
+  "name": "Trockenhefe ",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_12"
+}
+{
+  "name": "Weinsauerkraut mild",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_22"
+}
+{
+  "name": "Würfelzucker",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_2"
+}
+{
+  "name": "Zucker",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_11"
+}
+{
+  "name": "gezuckerte Kondensmilch",
+  "entity_id": "sensor.shopping_list_with_grocy_product_v2_52"
+}
+{
+  "name": "SLZB-06_Matter Internet",
+  "entity_id": "binary_sensor.slzb_06_matter_internet"
+}
+{
+  "name": "ShoppingListWithGrocy Update in progress",
+  "entity_id": "binary_sensor.updating_shopping_list_with_grocy"
+}
+{
+  "name": "ShoppingListWithGrocy Pause update",
+  "entity_id": "switch.pause_update_shopping_list_with_grocy"
+}
+{
+  "name": "SLZB-06 Internet",
+  "entity_id": "binary_sensor.slzb_06_internet"
+}
+{
+  "name": "SWLG - Einkaufszettel",
+  "entity_id": "todo.shopping_list_with_grocy_list_1"
+}
+{
+  "name": "Grocy Voice Response Helper",
+  "entity_id": "sensor.grocy_voice_response_helper"
+}
+{
+  "name": "Mond Phase",
+  "entity_id": "sensor.mond_phase"
+}
+{
+  "name": "Bestätigbare Testbenachrichtigung mit Sprachausgabe",
+  "entity_id": "script.bestatigbare_testbenachrichtigung_mit_sprachausgabe"
+}
+{
+  "name": "ERF Jess",
+  "entity_id": "script.erf_jess"
+}
+{
+  "name": "Radio BOB!",
+  "entity_id": "script.radio_bob"
+}
+{
+  "name": "SWR1",
+  "entity_id": "script.swr1"
+}
+{
+  "name": "SWR3",
+  "entity_id": "script.swr3"
+}
+{
+  "name": "assist microphone",
+  "entity_id": "assist_satellite.assist_microphone"
+}
+{
+  "name": "assist microphone Assist in Arbeit",
+  "entity_id": "binary_sensor.assist_microphone_assist_in_arbeit"
+}
+{
+  "name": "assist microphone Assistent",
+  "entity_id": "select.assist_microphone_assistent"
+}
+{
+  "name": "assist microphone Stufe der Geräuschunterdrückung",
+  "entity_id": "select.assist_microphone_stufe_der_gerauschunterdruckung"
+}
+{
+  "name": "assist microphone Sprechpausen-Erkennung",
+  "entity_id": "select.assist_microphone_sprechpausen_erkennung"
+}
+{
+  "name": "assist microphone Stummschalten",
+  "entity_id": "switch.assist_microphone_stummschalten"
+}
+{
+  "name": "assist microphone Automatische Verstärkung",
+  "entity_id": "number.assist_microphone_automatische_verstarkung"
+}
+{
+  "name": "assist microphone Mikrofon-Lautstärke",
+  "entity_id": "number.assist_microphone_mikrofon_lautstarke"
+}
+{
+  "name": "faster-whisper",
+  "entity_id": "stt.faster_whisper"
+}
+{
+  "name": "speech-to-phrase",
+  "entity_id": "stt.speech_to_phrase"
+}
+{
+  "name": "openwakeword",
+  "entity_id": "wake_word.openwakeword"
+}
+{
+  "name": "piper",
+  "entity_id": "tts.piper"
+}
+{
+  "name": "Tuya Sirene Schalter",
+  "entity_id": "switch.tuya_sirene_schalter"
+}
+{
+  "name": "Guition Display WiFi Signal",
+  "entity_id": "sensor.guition_display_wifi_signal"
+}
+{
+  "name": "Guition Display WiFi Strength",
+  "entity_id": "sensor.guition_display_wifi_strength"
+}
+{
+  "name": "Guition Display Connected SSID",
+  "entity_id": "sensor.guition_display_connected_ssid"
+}
+{
+  "name": "Guition Display Mac Address",
+  "entity_id": "sensor.guition_display_mac_address"
+}
+{
+  "name": "Guition Display IP Address",
+  "entity_id": "sensor.guition_display_ip_address"
+}
+{
+  "name": "Guition Display Backlight",
+  "entity_id": "light.guition_display_backlight"
+}
+{
+  "name": "Guition Display Restart",
+  "entity_id": "switch.guition_display_restart"
+}
+{
+  "name": "Guition Display Status",
+  "entity_id": "binary_sensor.guition_display_status"
+}
+{
+  "name": "Freudenstadt Wetterzustand",
+  "entity_id": "sensor.freudenstadt_wetterzustand"
+}
+{
+  "name": "Freudenstadt Wetterbericht",
+  "entity_id": "sensor.freudenstadt_wetterbericht"
+}
+{
+  "name": "Freudenstadt Temperatur",
+  "entity_id": "sensor.freudenstadt_temperatur"
+}
+{
+  "name": "Freudenstadt Windgeschwindigkeit",
+  "entity_id": "sensor.freudenstadt_windgeschwindigkeit"
+}
+{
+  "name": "Freudenstadt Windrichtung",
+  "entity_id": "sensor.freudenstadt_windrichtung"
+}
+{
+  "name": "Freudenstadt Windböen",
+  "entity_id": "sensor.freudenstadt_windboen"
+}
+{
+  "name": "Freudenstadt Niederschlag",
+  "entity_id": "sensor.freudenstadt_niederschlag"
+}
+{
+  "name": "Freudenstadt Niederschlagswahrscheinlichkeit",
+  "entity_id": "sensor.freudenstadt_niederschlagswahrscheinlichkeit"
+}
+{
+  "name": "Freudenstadt Niederschlagsdauer",
+  "entity_id": "sensor.freudenstadt_niederschlagsdauer"
+}
+{
+  "name": "Freudenstadt Bewölkungsgrad",
+  "entity_id": "sensor.freudenstadt_bewolkungsgrad"
+}
+{
+  "name": "Freudenstadt Sichtweite",
+  "entity_id": "sensor.freudenstadt_sichtweite"
+}
+{
+  "name": "Freudenstadt Sonnenscheindauer",
+  "entity_id": "sensor.freudenstadt_sonnenscheindauer"
+}
+{
+  "name": "Freudenstadt Sonneneinstrahlung",
+  "entity_id": "sensor.freudenstadt_sonneneinstrahlung"
+}
+{
+  "name": "Freudenstadt Nebelwahrscheinlichkeit",
+  "entity_id": "sensor.freudenstadt_nebelwahrscheinlichkeit"
+}
+{
+  "name": "Freudenstadt Zeit: Vorhersagewerte",
+  "entity_id": "sensor.freudenstadt_zeit_vorhersagewerte_2"
+}
+{
+  "name": "Freudenstadt UV-Index",
+  "entity_id": "sensor.freudenstadt_uv_index"
+}
+{
+  "name": "Freudenstadt Zeit: Messwerte",
+  "entity_id": "sensor.freudenstadt_zeit_messwerte_2"
+}
+{
+  "name": "Schlafzimmer",
+  "entity_id": "climate.schlafzimmer"
+}
+{
+  "name": "Büro Markus",
+  "entity_id": "climate.buro_markus"
+}
+{
+  "name": "Wohnzimmer",
+  "entity_id": "climate.heizung_wohnzimmer"
+}
+{
+  "name": "Sterne an",
+  "entity_id": "automation.sterne_an"
+}
+{
+  "name": "Sterne aus",
+  "entity_id": "automation.sterne_aus"
+}
+{
+  "name": "Sonoff TRVZB External Temperature Sensor Calibration Markus ",
+  "entity_id": "automation.sonoff_trvzb_external_temperature_sensor_calibration_markus"
+}
+{
+  "name": "Sonoff TRVZB External Temperature Sensor Calibration Wohnzimmer",
+  "entity_id": "automation.sonoff_trvzb_external_temperature_sensor_calibration_wohnzimmer"
+}
+{
+  "name": "Sonoff TRVZB External Temperature Sensor Calibration Schlafzimmer",
+  "entity_id": "automation.sonoff_trvzb_external_temperature_sensor_calibration_schlafzimmer"
+}
+{
+  "name": "Flurlicht bei Bewegung",
+  "entity_id": "automation.flurlicht_bei_bewegung_neu"
+}
+{
+  "name": "Licht aus um 1 Uhr",
+  "entity_id": "automation.garderobe_licht_mitternacht_aus"
+}
+{
+  "name": "Licht an bei Sonnenuntergang",
+  "entity_id": "automation.flur_und_buro_bibi_licht_an"
+}
+{
+  "name": "Markus Licht bei Bewegung",
+  "entity_id": "automation.markus_licht_bei_bewegung"
+}
+{
+  "name": "Controller - Bibi´s Eck",
+  "entity_id": "automation.controller_bibi_s_eck"
+}
+{
+  "name": "Controller - Garderobe",
+  "entity_id": "automation.controller_garderobe"
+}
+{
+  "name": "Radio Stream Refresh (alle 14 Min)",
+  "entity_id": "automation.radio_stream_refresh_alle_25_min"
+}
+{
+  "name": "Alarm: Wasserleck Detail-Meldung",
+  "entity_id": "automation.alarm_wasserleck_detail_meldung"
+}
+{
+  "name": "Lidl FB21-001 Steuerung Final",
+  "entity_id": "automation.lidl_fb21_001_steuerung_final"
+}
+{
+  "name": "Steuerung Stehlampe Bibi - Flüssiges Dimmen mit Stop",
+  "entity_id": "automation.steuerung_stehlampe_bibi_flussiges_dimmen_mit_stop"
+}
+{
+  "name": "Abluft WC: 5 Min Timer (Somrig)",
+  "entity_id": "automation.abluft_wc_5_min_timer_somrig"
+}
+{
+  "name": "Somrig: Abluft Schalter Steuerung",
+  "entity_id": "automation.somrig_abluft_schalter_steuerung"
+}
+{
+  "name": "Abluft: Auto-Aus nach 5 Min",
+  "entity_id": "automation.abluft_auto_aus_nach_5_min"
+}
+{
+  "name": "Alarm: Fernbedienung Steuerung (Somrig) FULL",
+  "entity_id": "automation.alarm_fernbedienung_steuerung_somrig_full"
+}
+{
+  "name": "Steuerung: Bibis Ecke Licht (Flüssiges Dimmen)",
+  "entity_id": "automation.steuerung_bibis_ecke_licht_flussiges_dimmen"
+}
+{
+  "name": "Steuerung: Bibis Ecke Licht (Direkt MQTT)",
+  "entity_id": "automation.steuerung_bibis_ecke_licht_direkt_mqtt"
+}
+{
+  "name": "Flurlicht bei Bewegung",
+  "entity_id": "automation.flurlicht_bei_bewegung"
+}
+{
+  "name": "Kajplats Licht bei Bewegung",
+  "entity_id": "automation.kajplats_licht_bei_bewegung"
+}
+{
+  "name": "Garderobe Licht an um 5 Uhr",
+  "entity_id": "automation.garderobe_licht_an_um_5_uhr"
+}
+{
+  "name": "Stern Kinderzimmer Config overtemp type",
+  "entity_id": "sensor.stern_kinderzimmer_config_overtemp_type"
+}
+{
+  "name": "Stern Kinderzimmer Current",
+  "entity_id": "sensor.stern_kinderzimmer_current"
+}
+{
+  "name": "Stern Kinderzimmer Power",
+  "entity_id": "sensor.stern_kinderzimmer_power"
+}
+{
+  "name": "Stern Kinderzimmer Voltage",
+  "entity_id": "sensor.stern_kinderzimmer_voltage"
+}
+{
+  "name": "Stern Kinderzimmer Consumption",
+  "entity_id": "sensor.stern_kinderzimmer_consumption"
+}
+{
+  "name": "Stern Kinderzimmer Refresh",
+  "entity_id": "button.stern_kinderzimmer_refresh"
+}
+{
+  "name": "Stern Kinderzimmer Reload",
+  "entity_id": "button.stern_kinderzimmer_reload"
+}
+{
+  "name": "Stern Kinderzimmer Config overtemp enable",
+  "entity_id": "switch.stern_kinderzimmer_config_overtemp_enable"
+}
+{
+  "name": "Stern Kinderzimmer Outlet",
+  "entity_id": "switch.stern_kinderzimmer_outlet"
+}
+{
+  "name": "Stern Kinderzimmer Dnd",
+  "entity_id": "light.stern_kinderzimmer_dnd"
+}
+{
+  "name": "Abluft WC Config overtemp type",
+  "entity_id": "sensor.smart_switch_23091523778626510d0248e1e9dad2e2_config_overtemp_type"
+}
+{
+  "name": "Abluft WC Current",
+  "entity_id": "sensor.smart_switch_23091523778626510d0248e1e9dad2e2_current"
+}
+{
+  "name": "Abluft WC Power",
+  "entity_id": "sensor.smart_switch_23091523778626510d0248e1e9dad2e2_power"
+}
+{
+  "name": "Abluft WC Voltage",
+  "entity_id": "sensor.smart_switch_23091523778626510d0248e1e9dad2e2_voltage"
+}
+{
+  "name": "Abluft WC Consumption",
+  "entity_id": "sensor.smart_switch_23091523778626510d0248e1e9dad2e2_consumption"
+}
+{
+  "name": "Abluft WC Refresh",
+  "entity_id": "button.smart_switch_23091523778626510d0248e1e9dad2e2_refresh"
+}
+{
+  "name": "Abluft WC Reload",
+  "entity_id": "button.smart_switch_23091523778626510d0248e1e9dad2e2_reload"
+}
+{
+  "name": "Abluft WC Config overtemp enable",
+  "entity_id": "switch.smart_switch_23091523778626510d0248e1e9dad2e2_config_overtemp_enable"
+}
+{
+  "name": "Abluft WC",
+  "entity_id": "switch.smart_switch_23091523778626510d0248e1e9dad2e2_outlet"
+}
+{
+  "name": "Abluft WC Dnd",
+  "entity_id": "light.smart_switch_23091523778626510d0248e1e9dad2e2_dnd"
+}
+{
+  "name": "Stern Bibi´s Büro Sensor protocol",
+  "entity_id": "sensor.smart_switch_23091550481586510d0248e1e9dac4a2_sensor_protocol"
+}
+{
+  "name": "Stern Bibi´s Büro Config overtemp type",
+  "entity_id": "sensor.stern_bibi_s_buro_config_overtemp_type"
+}
+{
+  "name": "Stern Bibi´s Büro Refresh",
+  "entity_id": "button.stern_bibi_s_buro_refresh"
+}
+{
+  "name": "Stern Bibi´s Büro Reload",
+  "entity_id": "button.stern_bibi_s_buro_reload"
+}
+{
+  "name": "Stern Bibi´s Büro Config overtemp enable",
+  "entity_id": "switch.stern_bibi_s_buro_config_overtemp_enable"
+}
+{
+  "name": "Stern Bibi´s Büro Outlet",
+  "entity_id": "switch.stern_bibi_s_buro_outlet"
+}
+{
+  "name": "Stern Bibi´s Büro Dnd",
+  "entity_id": "light.stern_bibi_s_buro_dnd"
+}
+{
+  "name": "Büro Bibi Licht Steckdose Config overtemp type",
+  "entity_id": "sensor.stern_wohnzimmer_config_overtemp_type"
+}
+{
+  "name": "Büro Bibi Licht Steckdose Current",
+  "entity_id": "sensor.stern_wohnzimmer_current"
+}
+{
+  "name": "Büro Bibi Licht Steckdose Power",
+  "entity_id": "sensor.stern_wohnzimmer_power"
+}
+{
+  "name": "Büro Bibi Licht Steckdose Voltage",
+  "entity_id": "sensor.stern_wohnzimmer_voltage"
+}
+{
+  "name": "Büro Bibi Licht Steckdose Consumption",
+  "entity_id": "sensor.stern_wohnzimmer_consumption"
+}
+{
+  "name": "Büro Bibi Licht Steckdose Refresh",
+  "entity_id": "button.stern_wohnzimmer_refresh"
+}
+{
+  "name": "Büro Bibi Licht Steckdose Reload",
+  "entity_id": "button.stern_wohnzimmer_reload"
+}
+{
+  "name": "Büro Bibi Licht Steckdose Config overtemp enable",
+  "entity_id": "switch.stern_wohnzimmer_config_overtemp_enable"
+}
+{
+  "name": "Büro Bibi Licht Steckdose Outlet",
+  "entity_id": "switch.stern_wohnzimmer_outlet"
+}
+{
+  "name": "Büro Bibi Licht Steckdose Dnd",
+  "entity_id": "light.stern_wohnzimmer_dnd"
+}
+{
+  "name": "Stern Kinderzimmer Energy",
+  "entity_id": "sensor.stern_kinderzimmer_energy"
+}
+{
+  "name": "Stern Kinderzimmer Signal strength",
+  "entity_id": "sensor.stern_kinderzimmer_signal_strength"
+}
+{
+  "name": "Abluft WC Energy",
+  "entity_id": "sensor.smart_switch_23091523778626510d0248e1e9dad2e2_energy"
+}
+{
+  "name": "Abluft WC Signal strength",
+  "entity_id": "sensor.smart_switch_23091523778626510d0248e1e9dad2e2_signal_strength"
+}
+{
+  "name": "Stern Bibi´s Büro Energy estimate",
+  "entity_id": "sensor.smart_switch_23091550481586510d0248e1e9dac4a2_energy_estimate"
+}
+{
+  "name": "Stern Bibi´s Büro Current",
+  "entity_id": "sensor.stern_bibi_s_buro_current"
+}
+{
+  "name": "Stern Bibi´s Büro Power",
+  "entity_id": "sensor.stern_bibi_s_buro_power"
+}
+{
+  "name": "Stern Bibi´s Büro Voltage",
+  "entity_id": "sensor.stern_bibi_s_buro_voltage"
+}
+{
+  "name": "Stern Bibi´s Büro Consumption",
+  "entity_id": "sensor.stern_bibi_s_buro_consumption"
+}
+{
+  "name": "Büro Bibi Licht Steckdose Energy",
+  "entity_id": "sensor.stern_wohnzimmer_energy"
+}
+{
+  "name": "Büro Bibi Licht Steckdose Signal strength",
+  "entity_id": "sensor.stern_wohnzimmer_signal_strength"
+}
+{
+  "name": "Stern Bibi´s Büro Energy",
+  "entity_id": "sensor.stern_bibi_s_buro_energy"
+}
+{
+  "name": "Stern Bibi´s Büro Signal strength",
+  "entity_id": "sensor.stern_bibi_s_buro_signal_strength"
+}
+{
+  "name": "Einkaufen  Aktivitäten",
+  "entity_id": "event.einkaufen_aktivitaten"
+}
+{
+  "name": "DM Aktivitäten",
+  "entity_id": "event.dm_aktivitaten"
+}
+{
+  "name": "Baumarkt Aktivitäten",
+  "entity_id": "event.baumarkt_aktivitaten"
+}
+{
+  "name": "Joe  Aktivitäten",
+  "entity_id": "event.joe_aktivitaten"
+}
+{
+  "name": "Wohnung  Aktivitäten",
+  "entity_id": "event.wohnung_aktivitaten"
+}
+{
+  "name": "Picks raus Aktivitäten",
+  "entity_id": "event.picks_raus_aktivitaten"
+}
+{
+  "name": "Apotheke Aktivitäten",
+  "entity_id": "event.apotheke_aktivitaten"
+}
+{
+  "name": "Einkaufen  Dringend",
+  "entity_id": "sensor.einkaufen_dringend"
+}
+{
+  "name": "DM Dringend",
+  "entity_id": "sensor.dm_dringend"
+}
+{
+  "name": "Baumarkt Dringend",
+  "entity_id": "sensor.baumarkt_dringend"
+}
+{
+  "name": "Joe  Dringend",
+  "entity_id": "sensor.joe_dringend"
+}
+{
+  "name": "Wohnung  Dringend",
+  "entity_id": "sensor.wohnung_dringend"
+}
+{
+  "name": "Picks raus Dringend",
+  "entity_id": "sensor.picks_raus_dringend"
+}
+{
+  "name": "Apotheke Dringend",
+  "entity_id": "sensor.apotheke_dringend"
+}
+{
+  "name": "Einkaufen  Bei Gelegenheit",
+  "entity_id": "sensor.einkaufen_bei_gelegenheit"
+}
+{
+  "name": "DM Bei Gelegenheit",
+  "entity_id": "sensor.dm_bei_gelegenheit"
+}
+{
+  "name": "Baumarkt Bei Gelegenheit",
+  "entity_id": "sensor.baumarkt_bei_gelegenheit"
+}
+{
+  "name": "Joe  Bei Gelegenheit",
+  "entity_id": "sensor.joe_bei_gelegenheit"
+}
+{
+  "name": "Wohnung  Bei Gelegenheit",
+  "entity_id": "sensor.wohnung_bei_gelegenheit"
+}
+{
+  "name": "Picks raus Bei Gelegenheit",
+  "entity_id": "sensor.picks_raus_bei_gelegenheit"
+}
+{
+  "name": "Apotheke Bei Gelegenheit",
+  "entity_id": "sensor.apotheke_bei_gelegenheit"
+}
+{
+  "name": "Einkaufen  Nur wenn im Angebot",
+  "entity_id": "sensor.einkaufen_nur_wenn_im_angebot"
+}
+{
+  "name": "DM Nur wenn im Angebot",
+  "entity_id": "sensor.dm_nur_wenn_im_angebot"
+}
+{
+  "name": "Baumarkt Nur wenn im Angebot",
+  "entity_id": "sensor.baumarkt_nur_wenn_im_angebot"
+}
+{
+  "name": "Joe  Nur wenn im Angebot",
+  "entity_id": "sensor.joe_nur_wenn_im_angebot"
+}
+{
+  "name": "Wohnung  Nur wenn im Angebot",
+  "entity_id": "sensor.wohnung_nur_wenn_im_angebot"
+}
+{
+  "name": "Picks raus Nur wenn im Angebot",
+  "entity_id": "sensor.picks_raus_nur_wenn_im_angebot"
+}
+{
+  "name": "Apotheke Nur wenn im Angebot",
+  "entity_id": "sensor.apotheke_nur_wenn_im_angebot"
+}
+{
+  "name": "Einkaufen  Region und Sprache",
+  "entity_id": "sensor.einkaufen_region_und_sprache"
+}
+{
+  "name": "DM Region und Sprache",
+  "entity_id": "sensor.dm_region_und_sprache"
+}
+{
+  "name": "Baumarkt Region und Sprache",
+  "entity_id": "sensor.baumarkt_region_und_sprache"
+}
+{
+  "name": "Joe  Region und Sprache",
+  "entity_id": "sensor.joe_region_und_sprache"
+}
+{
+  "name": "Wohnung  Region und Sprache",
+  "entity_id": "sensor.wohnung_region_und_sprache"
+}
+{
+  "name": "Picks raus Region und Sprache",
+  "entity_id": "sensor.picks_raus_region_und_sprache"
+}
+{
+  "name": "Apotheke Region und Sprache",
+  "entity_id": "sensor.apotheke_region_und_sprache"
+}
+{
+  "name": "Einkaufen  Listenzugriff",
+  "entity_id": "sensor.einkaufen_listenzugriff"
+}
+{
+  "name": "DM Listenzugriff",
+  "entity_id": "sensor.dm_listenzugriff"
+}
+{
+  "name": "Baumarkt Listenzugriff",
+  "entity_id": "sensor.baumarkt_listenzugriff"
+}
+{
+  "name": "Joe  Listenzugriff",
+  "entity_id": "sensor.joe_listenzugriff"
+}
+{
+  "name": "Wohnung  Listenzugriff",
+  "entity_id": "sensor.wohnung_listenzugriff"
+}
+{
+  "name": "Picks raus Listenzugriff",
+  "entity_id": "sensor.picks_raus_listenzugriff"
+}
+{
+  "name": "Apotheke Listenzugriff",
+  "entity_id": "sensor.apotheke_listenzugriff"
+}
+{
+  "name": "Einkaufen ",
+  "entity_id": "todo.einkaufen"
+}
+{
+  "name": "DM",
+  "entity_id": "todo.dm"
+}
+{
+  "name": "Baumarkt",
+  "entity_id": "todo.baumarkt"
+}
+{
+  "name": "Joe ",
+  "entity_id": "todo.joe"
+}
+{
+  "name": "Wohnung ",
+  "entity_id": "todo.wohnung"
+}
+{
+  "name": "Picks raus",
+  "entity_id": "todo.picks_raus"
+}
+{
+  "name": "Apotheke",
+  "entity_id": "todo.apotheke"
+}
+{
+  "name": "This Device",
+  "entity_id": "media_player.this_device_3"
+}
+{
+  "name": "This Device",
+  "entity_id": "media_player.this_device_2"
+}
+{
+  "name": "This Device Bitte nicht stören",
+  "entity_id": "switch.this_device_do_not_disturb_switch_3"
+}
+{
+  "name": "Handy Markus Bitte nicht stören",
+  "entity_id": "switch.this_device_do_not_disturb_switch_2"
+}
+{
+  "name": "This Device Nächster Alarm",
+  "entity_id": "sensor.this_device_next_alarm_3"
+}
+{
+  "name": "This Device Nächster Timer",
+  "entity_id": "sensor.this_device_next_timer_3"
+}
+{
+  "name": "This Device Nächste Erinnerung",
+  "entity_id": "sensor.this_device_next_reminder_3"
+}
+{
+  "name": "Handy Markus Nächster Alarm",
+  "entity_id": "sensor.this_device_next_alarm_2"
+}
+{
+  "name": "Handy Markus Nächster Timer",
+  "entity_id": "sensor.this_device_next_timer_2"
+}
+{
+  "name": "Handy Markus Nächste Erinnerung",
+  "entity_id": "sensor.this_device_next_reminder_2"
+}
+{
+  "name": "Zigbee2MQTT Bridge Connection state",
+  "entity_id": "binary_sensor.zigbee2mqtt_bridge_connection_state"
+}
+{
+  "name": "Flur Bewegung Radar Belegung",
+  "entity_id": "binary_sensor.flur_radar_presence"
+}
+{
+  "name": "Bewegungsmelder Belegung",
+  "entity_id": "binary_sensor.bewegungsmelder_occupancy"
+}
+{
+  "name": "Bewegungsmelder Batteriestand",
+  "entity_id": "binary_sensor.bewegungsmelder_battery_low"
+}
+{
+  "name": "Bewegungsmelder neu Belegung",
+  "entity_id": "binary_sensor.bewegungsmelder_neu_presence"
+}
+{
+  "name": "Wanne",
+  "entity_id": "binary_sensor.wasserlecksensor_wanne_water_leak"
+}
+{
+  "name": "Wasserleck  Wanne Batteriestand",
+  "entity_id": "binary_sensor.wasserlecksensor_wanne_battery_low"
+}
+{
+  "name": "Heizung",
+  "entity_id": "binary_sensor.0xa4c1380b0305ffff_water_leak"
+}
+{
+  "name": "Wasserleck Heizung Batteriestand",
+  "entity_id": "binary_sensor.0xa4c1380b0305ffff_battery_low"
+}
+{
+  "name": "Küche",
+  "entity_id": "binary_sensor.wasserlecksensor_kuche_water_leak"
+}
+{
+  "name": "Wasserleck  Küche Batteriestand",
+  "entity_id": "binary_sensor.wasserlecksensor_kuche_battery_low"
+}
+{
+  "name": "Spülmaschine",
+  "entity_id": "binary_sensor.wasserlecksensor_spulmaschine_water_leak"
+}
+{
+  "name": "Wasserleck Spülmaschine Batteriestand",
+  "entity_id": "binary_sensor.wasserlecksensor_spulmaschine_battery_low"
+}
+{
+  "name": "Waschmaschine",
+  "entity_id": "binary_sensor.wasserlecksensor_waschmaschine_water_leak"
+}
+{
+  "name": "Wasserleck Waschmaschine Batteriestand",
+  "entity_id": "binary_sensor.wasserlecksensor_waschmaschine_battery_low"
+}
+{
+  "name": "Flur Bewegungsmelder Belegung",
+  "entity_id": "binary_sensor.flur_bewegungsmelder_occupancy"
+}
+{
+  "name": "Flur Bewegungsmelder Batteriestand",
+  "entity_id": "binary_sensor.flur_bewegungsmelder_battery_low"
+}
+{
+  "name": "Wasserlecksensor_WC Feuchte",
+  "entity_id": "binary_sensor.wasserlecksensor_wc_water_leak"
+}
+{
+  "name": "Wasserlecksensor_WC Batteriestand",
+  "entity_id": "binary_sensor.wasserlecksensor_wc_battery_low"
+}
+{
+  "name": "RadarCustomFW Belegung",
+  "entity_id": "binary_sensor.radarcustomfw_presence"
+}
+{
+  "name": "0x881a14fffee85330 Belegung",
+  "entity_id": "binary_sensor.0x881a14fffee85330_occupancy"
+}
+{
+  "name": "Ikea Bewegung Markus Belegung",
+  "entity_id": "binary_sensor.ikea_bewegung_markus_occupancy"
+}
+{
+  "name": "Zigbee2MQTT Bridge Restart",
+  "entity_id": "button.zigbee2mqtt_bridge_restart"
+}
+{
+  "name": "Garderobe Licht Identifizieren",
+  "entity_id": "button.garderobe_licht_identify"
+}
+{
+  "name": "Garderobe Schalter Identifizieren",
+  "entity_id": "button.garderobe_schalter_identify"
+}
+{
+  "name": "Licht Wohnzimmerschrank Identifizieren",
+  "entity_id": "button.licht_wohnzimmerschrank_identify"
+}
+{
+  "name": "Küchen Unterlicht Identifizieren",
+  "entity_id": "button.kuchen_unterlicht_identify"
+}
+{
+  "name": "Licht Küche Unterschrank2 Identifizieren",
+  "entity_id": "button.licht_kuche_unterschrank2_identify"
+}
+{
+  "name": "Licht Aktenschrank Markus Identifizieren",
+  "entity_id": "button.licht_aktenschrank_markus_identify"
+}
+{
+  "name": "Abluft WC FB Identifizieren",
+  "entity_id": "button.abluft_wc_schalter_identify"
+}
+{
+  "name": "RC_Stehlampe Identifizieren",
+  "entity_id": "button.rc_stehlampe_identify"
+}
+{
+  "name": "Alarm_FB Identifizieren",
+  "entity_id": "button.alarm_fb_identify"
+}
+{
+  "name": "Bibis_FB_Eck Identifizieren",
+  "entity_id": "button.bibis_fb_eck_identify"
+}
+{
+  "name": "Bibis_Ecke_Licht Identifizieren",
+  "entity_id": "button.bibis_ecke_licht_identify"
+}
+{
+  "name": "0x003c84fffed84dd8 Identifizieren",
+  "entity_id": "button.0x003c84fffed84dd8_identify"
+}
+{
+  "name": "0x881a14fffee85330 Identifizieren",
+  "entity_id": "button.0x881a14fffee85330_identify"
+}
+{
+  "name": "Ikea Bewegung Markus Identifizieren",
+  "entity_id": "button.ikea_bewegung_markus_identify"
+}
+{
+  "name": "Licht 3D-Drucker Identifizieren",
+  "entity_id": "button.licht_3d_drucker_identify"
+}
+{
+  "name": "Wohnzimmer Heizung",
+  "entity_id": "climate.wohnzimmer_heizung"
+}
+{
+  "name": "Büro Markus Heizung",
+  "entity_id": "climate.buro_markus_heizung"
+}
+{
+  "name": "Schlafzimmer Heizung",
+  "entity_id": "climate.schlafzimmer_heizung"
+}
+{
+  "name": "Garderobe Licht",
+  "entity_id": "light.garderobe_licht"
+}
+{
+  "name": "Esszimmer Lampe 1",
+  "entity_id": "light.esszimmer_lampe_1"
+}
+{
+  "name": "Esszimmer Lampe 2",
+  "entity_id": "light.esszimmer_lampe_2"
+}
+{
+  "name": "Esszimmer Lampe 3",
+  "entity_id": "light.esszimmer_lampe_3"
+}
+{
+  "name": "Esszimmer Licht",
+  "entity_id": "light.esszimmer_licht"
+}
+{
+  "name": "Alle Lichter",
+  "entity_id": "light.alle_lichter"
+}
+{
+  "name": "Licht Wohnzimmerschrank",
+  "entity_id": "light.licht_wohnzimmerschrank"
+}
+{
+  "name": "Licht Wohnzimmer ",
+  "entity_id": "light.licht_wohnzimmer"
+}
+{
+  "name": "Küchen Unterlicht",
+  "entity_id": "light.kuchen_unterlicht"
+}
+{
+  "name": "Licht Küche Unterschrank2",
+  "entity_id": "light.licht_kuche_unterschrank2"
+}
+{
+  "name": "Licht Aktenschrank Markus",
+  "entity_id": "light.licht_aktenschrank_markus"
+}
+{
+  "name": "Bibis_Ecke_Licht",
+  "entity_id": "light.bibis_ecke_licht"
+}
+{
+  "name": "Licht 3D-Drucker",
+  "entity_id": "light.licht_3d_drucker"
+}
+{
+  "name": "Flur Bewegung Radar Radar sensitivity",
+  "entity_id": "number.flur_radar_radar_sensitivity"
+}
+{
+  "name": "Flur Bewegung Radar Minimum range",
+  "entity_id": "number.flur_radar_minimum_range"
+}
+{
+  "name": "Flur Bewegung Radar Maximum range",
+  "entity_id": "number.flur_radar_maximum_range"
+}
+{
+  "name": "Flur Bewegung Radar Detection delay",
+  "entity_id": "number.flur_radar_detection_delay"
+}
+{
+  "name": "Flur Bewegung Radar Fading time",
+  "entity_id": "number.flur_radar_fading_time"
+}
+{
+  "name": "Wohnzimmer Heizung Temperatur-Delta",
+  "entity_id": "number.wohnzimmer_heizung_local_temperature_calibration"
+}
+{
+  "name": "Wohnzimmer Heizung Timer mode target temp",
+  "entity_id": "number.wohnzimmer_heizung_timer_mode_target_temp"
+}
+{
+  "name": "Wohnzimmer Heizung Temporary mode duration",
+  "entity_id": "number.wohnzimmer_heizung_temporary_mode_duration"
+}
+{
+  "name": "Wohnzimmer Heizung Frost protection temperature",
+  "entity_id": "number.wohnzimmer_heizung_frost_protection_temperature"
+}
+{
+  "name": "Wohnzimmer Heizung Temperatur",
+  "entity_id": "number.wohnzimmer_heizung_external_temperature_input"
+}
+{
+  "name": "Wohnzimmer Heizung Valve opening degree",
+  "entity_id": "number.wohnzimmer_heizung_valve_opening_degree"
+}
+{
+  "name": "Wohnzimmer Heizung Valve closing degree",
+  "entity_id": "number.wohnzimmer_heizung_valve_closing_degree"
+}
+{
+  "name": "Wohnzimmer Heizung Temperature accuracy",
+  "entity_id": "number.wohnzimmer_heizung_temperature_accuracy"
+}
+{
+  "name": "Büro Markus Heizung Temperatur-Delta",
+  "entity_id": "number.buro_markus_heizung_local_temperature_calibration"
+}
+{
+  "name": "Büro Markus Heizung Timer mode target temp",
+  "entity_id": "number.buro_markus_heizung_timer_mode_target_temp"
+}
+{
+  "name": "Büro Markus Heizung Temporary mode duration",
+  "entity_id": "number.buro_markus_heizung_temporary_mode_duration"
+}
+{
+  "name": "Büro Markus Heizung Frost protection temperature",
+  "entity_id": "number.buro_markus_heizung_frost_protection_temperature"
+}
+{
+  "name": "Büro Markus Heizung Temperatur",
+  "entity_id": "number.buro_markus_heizung_external_temperature_input"
+}
+{
+  "name": "Büro Markus Heizung Valve opening degree",
+  "entity_id": "number.buro_markus_heizung_valve_opening_degree"
+}
+{
+  "name": "Büro Markus Heizung Valve closing degree",
+  "entity_id": "number.buro_markus_heizung_valve_closing_degree"
+}
+{
+  "name": "Büro Markus Heizung Temperature accuracy",
+  "entity_id": "number.buro_markus_heizung_temperature_accuracy"
+}
+{
+  "name": "Schlafzimmer Heizung Temperatur-Delta",
+  "entity_id": "number.schlafzimmer_heizung_local_temperature_calibration"
+}
+{
+  "name": "Schlafzimmer Heizung Timer mode target temp",
+  "entity_id": "number.schlafzimmer_heizung_timer_mode_target_temp"
+}
+{
+  "name": "Schlafzimmer Heizung Temporary mode duration",
+  "entity_id": "number.schlafzimmer_heizung_temporary_mode_duration"
+}
+{
+  "name": "Schlafzimmer Heizung Frost protection temperature",
+  "entity_id": "number.schlafzimmer_heizung_frost_protection_temperature"
+}
+{
+  "name": "Schlafzimmer Heizung Temperatur",
+  "entity_id": "number.schlafzimmer_heizung_external_temperature_input"
+}
+{
+  "name": "Schlafzimmer Heizung Valve opening degree",
+  "entity_id": "number.schlafzimmer_heizung_valve_opening_degree"
+}
+{
+  "name": "Schlafzimmer Heizung Valve closing degree",
+  "entity_id": "number.schlafzimmer_heizung_valve_closing_degree"
+}
+{
+  "name": "Schlafzimmer Heizung Temperature accuracy",
+  "entity_id": "number.schlafzimmer_heizung_temperature_accuracy"
+}
+{
+  "name": "SNF Wohnzimmer Comfort temperature min",
+  "entity_id": "number.sn_wohnzimmer_temperatur_comfort_temperature_min"
+}
+{
+  "name": "SNF Wohnzimmer Comfort temperature max",
+  "entity_id": "number.sn_wohnzimmer_temperatur_comfort_temperature_max"
+}
+{
+  "name": "SNF Wohnzimmer Comfort humidity min",
+  "entity_id": "number.sn_wohnzimmer_temperatur_comfort_humidity_min"
+}
+{
+  "name": "SNF Wohnzimmer Comfort humidity max",
+  "entity_id": "number.sn_wohnzimmer_temperatur_comfort_humidity_max"
+}
+{
+  "name": "SNF Wohnzimmer Temperature calibration",
+  "entity_id": "number.sn_wohnzimmer_temperatur_temperature_calibration"
+}
+{
+  "name": "SNF Wohnzimmer Humidity calibration",
+  "entity_id": "number.sn_wohnzimmer_temperatur_humidity_calibration"
+}
+{
+  "name": "SNF Küche Comfort temperature min",
+  "entity_id": "number.snf_kuche_comfort_temperature_min"
+}
+{
+  "name": "SNF Küche Comfort temperature max",
+  "entity_id": "number.snf_kuche_comfort_temperature_max"
+}
+{
+  "name": "SNF Küche Comfort humidity min",
+  "entity_id": "number.snf_kuche_comfort_humidity_min"
+}
+{
+  "name": "SNF Küche Comfort humidity max",
+  "entity_id": "number.snf_kuche_comfort_humidity_max"
+}
+{
+  "name": "SNF Küche Temperature calibration",
+  "entity_id": "number.snf_kuche_temperature_calibration"
+}
+{
+  "name": "SNF Küche Humidity calibration",
+  "entity_id": "number.snf_kuche_humidity_calibration"
+}
+{
+  "name": "SNF Markus Comfort temperature min",
+  "entity_id": "number.snf_markus_comfort_temperature_min"
+}
+{
+  "name": "SNF Markus Comfort temperature max",
+  "entity_id": "number.snf_markus_comfort_temperature_max"
+}
+{
+  "name": "SNF Markus Comfort humidity min",
+  "entity_id": "number.snf_markus_comfort_humidity_min"
+}
+{
+  "name": "SNF Markus Comfort humidity max",
+  "entity_id": "number.snf_markus_comfort_humidity_max"
+}
+{
+  "name": "SNF Markus Temperature calibration",
+  "entity_id": "number.snf_markus_temperature_calibration"
+}
+{
+  "name": "SNF Markus Humidity calibration",
+  "entity_id": "number.snf_markus_humidity_calibration"
+}
+{
+  "name": "SNF Bad Comfort temperature min",
+  "entity_id": "number.snf_bad_comfort_temperature_min"
+}
+{
+  "name": "SNF Bad Comfort temperature max",
+  "entity_id": "number.snf_bad_comfort_temperature_max"
+}
+{
+  "name": "SNF Bad Comfort humidity min",
+  "entity_id": "number.snf_bad_comfort_humidity_min"
+}
+{
+  "name": "SNF Bad Comfort humidity max",
+  "entity_id": "number.snf_bad_comfort_humidity_max"
+}
+{
+  "name": "SNF Bad Temperature calibration",
+  "entity_id": "number.snf_bad_temperature_calibration"
+}
+{
+  "name": "SNF Bad Humidity calibration",
+  "entity_id": "number.snf_bad_humidity_calibration"
+}
+{
+  "name": "SNF Schlafzimmer Comfort temperature min",
+  "entity_id": "number.snf_schlafzimmer_comfort_temperature_min"
+}
+{
+  "name": "SNF Schlafzimmer Comfort temperature max",
+  "entity_id": "number.snf_schlafzimmer_comfort_temperature_max"
+}
+{
+  "name": "SNF Schlafzimmer Comfort humidity min",
+  "entity_id": "number.snf_schlafzimmer_comfort_humidity_min"
+}
+{
+  "name": "SNF Schlafzimmer Comfort humidity max",
+  "entity_id": "number.snf_schlafzimmer_comfort_humidity_max"
+}
+{
+  "name": "SNF Schlafzimmer Temperature calibration",
+  "entity_id": "number.snf_schlafzimmer_temperature_calibration"
+}
+{
+  "name": "SNF Schlafzimmer Humidity calibration",
+  "entity_id": "number.snf_schlafzimmer_humidity_calibration"
+}
+{
+  "name": "SNF Draußen Comfort temperature min",
+  "entity_id": "number.snf_draussen_comfort_temperature_min"
+}
+{
+  "name": "SNF Draußen Comfort temperature max",
+  "entity_id": "number.snf_draussen_comfort_temperature_max"
+}
+{
+  "name": "SNF Draußen Comfort humidity min",
+  "entity_id": "number.snf_draussen_comfort_humidity_min"
+}
+{
+  "name": "SNF Draußen Comfort humidity max",
+  "entity_id": "number.snf_draussen_comfort_humidity_max"
+}
+{
+  "name": "SNF Draußen Temperature calibration",
+  "entity_id": "number.snf_draussen_temperature_calibration"
+}
+{
+  "name": "SNF Draußen Humidity calibration",
+  "entity_id": "number.snf_draussen_humidity_calibration"
+}
+{
+  "name": "Bewegungsmelder neu Temperature calibration",
+  "entity_id": "number.bewegungsmelder_neu_temperature_calibration"
+}
+{
+  "name": "Bewegungsmelder neu Humidity calibration",
+  "entity_id": "number.bewegungsmelder_neu_humidity_calibration"
+}
+{
+  "name": "Bewegungsmelder neu Fading time",
+  "entity_id": "number.bewegungsmelder_neu_fading_time"
+}
+{
+  "name": "Bewegungsmelder neu Illuminance interval",
+  "entity_id": "number.bewegungsmelder_neu_illuminance_interval"
+}
+{
+  "name": "Bewegungsmelder neu Motion detection sensitivity",
+  "entity_id": "number.bewegungsmelder_neu_motion_detection_sensitivity"
+}
+{
+  "name": "Tuya Sirene Duration",
+  "entity_id": "number.tuya_sirene_duration"
+}
+{
+  "name": "ZigbeeRouter Transmit power",
+  "entity_id": "number.zigbeerouter_transmit_power"
+}
+{
+  "name": "RadarCustomFW Radar sensitivity",
+  "entity_id": "number.radarcustomfw_radar_sensitivity"
+}
+{
+  "name": "RadarCustomFW Minimum range",
+  "entity_id": "number.radarcustomfw_minimum_range"
+}
+{
+  "name": "RadarCustomFW Maximum range",
+  "entity_id": "number.radarcustomfw_maximum_range"
+}
+{
+  "name": "RadarCustomFW Detection delay",
+  "entity_id": "number.radarcustomfw_detection_delay"
+}
+{
+  "name": "RadarCustomFW Fading time",
+  "entity_id": "number.radarcustomfw_fading_time"
+}
+{
+  "name": "Zigbee2MQTT Bridge Log level",
+  "entity_id": "select.zigbee2mqtt_bridge_log_level"
+}
+{
+  "name": "Garderobe Licht Power-on behavior",
+  "entity_id": "select.garderobe_licht_power_on_behavior"
+}
+{
+  "name": "Wohnzimmer Heizung Temporary mode ",
+  "entity_id": "select.wohnzimmer_heizung_temporary_mode_select"
+}
+{
+  "name": "Wohnzimmer Heizung Temperature sensor",
+  "entity_id": "select.wohnzimmer_heizung_temperature_sensor_select"
+}
+{
+  "name": "Büro Markus Heizung Temporary mode ",
+  "entity_id": "select.buro_markus_heizung_temporary_mode_select"
+}
+{
+  "name": "Büro Markus Heizung Temperature sensor",
+  "entity_id": "select.buro_markus_heizung_temperature_sensor_select"
+}
+{
+  "name": "Schlafzimmer Heizung Temporary mode ",
+  "entity_id": "select.schlafzimmer_heizung_temporary_mode_select"
+}
+{
+  "name": "Schlafzimmer Heizung Temperature sensor",
+  "entity_id": "select.schlafzimmer_heizung_temperature_sensor_select"
+}
+{
+  "name": "SNF Wohnzimmer Temperature units",
+  "entity_id": "select.sn_wohnzimmer_temperatur_temperature_units"
+}
+{
+  "name": "SNF Küche Temperature units",
+  "entity_id": "select.snf_kuche_temperature_units"
+}
+{
+  "name": "SNF Markus Temperature units",
+  "entity_id": "select.snf_markus_temperature_units"
+}
+{
+  "name": "SNF Bad Temperature units",
+  "entity_id": "select.snf_bad_temperature_units"
+}
+{
+  "name": "SNF Schlafzimmer Temperature units",
+  "entity_id": "select.snf_schlafzimmer_temperature_units"
+}
+{
+  "name": "SNF Draußen Temperature units",
+  "entity_id": "select.snf_draussen_temperature_units"
+}
+{
+  "name": "Bewegungsmelder neu Temperature unit",
+  "entity_id": "select.bewegungsmelder_neu_temperature_unit"
+}
+{
+  "name": "Esszimmer Lampe 1 Color power on behavior",
+  "entity_id": "select.esszimmer_lampe_1_color_power_on_behavior"
+}
+{
+  "name": "Esszimmer Lampe 2 Color power on behavior",
+  "entity_id": "select.esszimmer_lampe_2_color_power_on_behavior"
+}
+{
+  "name": "Esszimmer Lampe 3 Color power on behavior",
+  "entity_id": "select.esszimmer_lampe_3_color_power_on_behavior"
+}
+{
+  "name": "Licht Wohnzimmerschrank Power-on behavior",
+  "entity_id": "select.licht_wohnzimmerschrank_power_on_behavior"
+}
+{
+  "name": "Tuya Sirene Volume",
+  "entity_id": "select.tuya_sirene_volume"
+}
+{
+  "name": "Küchen Unterlicht Power-on behavior",
+  "entity_id": "select.kuchen_unterlicht_power_on_behavior"
+}
+{
+  "name": "Licht Küche Unterschrank2 Power-on behavior",
+  "entity_id": "select.licht_kuche_unterschrank2_power_on_behavior"
+}
+{
+  "name": "Licht Aktenschrank Markus Power-on behavior",
+  "entity_id": "select.licht_aktenschrank_markus_power_on_behavior"
+}
+{
+  "name": "Bibis_Ecke_Licht Power-on behavior",
+  "entity_id": "select.bibis_ecke_licht_power_on_behavior"
+}
+{
+  "name": "Licht 3D-Drucker Power-on behavior",
+  "entity_id": "select.licht_3d_drucker_power_on_behavior"
+}
+{
+  "name": "Zigbee2MQTT Bridge Version",
+  "entity_id": "sensor.zigbee2mqtt_bridge_version"
+}
+{
+  "name": "Flur Bewegung Radar Beleuchtungsstärke",
+  "entity_id": "sensor.flur_radar_illuminance"
+}
+{
+  "name": "Flur Bewegung Radar Target distance",
+  "entity_id": "sensor.flur_radar_target_distance"
+}
+{
+  "name": "Garderobe Schalter Batterie",
+  "entity_id": "sensor.garderobe_schalter_battery"
+}
+{
+  "name": "Wohnzimmer Heizung Batterie",
+  "entity_id": "sensor.wohnzimmer_heizung_battery"
+}
+{
+  "name": "Wohnzimmer Heizung Idle steps",
+  "entity_id": "sensor.wohnzimmer_heizung_idle_steps"
+}
+{
+  "name": "Wohnzimmer Heizung Closing steps",
+  "entity_id": "sensor.wohnzimmer_heizung_closing_steps"
+}
+{
+  "name": "Wohnzimmer Heizung Valve opening limit voltage",
+  "entity_id": "sensor.wohnzimmer_heizung_valve_opening_limit_voltage"
+}
+{
+  "name": "Wohnzimmer Heizung Valve closing limit voltage",
+  "entity_id": "sensor.wohnzimmer_heizung_valve_closing_limit_voltage"
+}
+{
+  "name": "Wohnzimmer Heizung Valve motor running voltage",
+  "entity_id": "sensor.wohnzimmer_heizung_valve_motor_running_voltage"
+}
+{
+  "name": "Wohnzimmer Heizung Temperatur",
+  "entity_id": "sensor.wohnzimmer_heizung_local_temperature"
+}
+{
+  "name": "Büro Markus Heizung Batterie",
+  "entity_id": "sensor.buro_markus_heizung_battery"
+}
+{
+  "name": "Büro Markus Heizung Idle steps",
+  "entity_id": "sensor.buro_markus_heizung_idle_steps"
+}
+{
+  "name": "Büro Markus Heizung Closing steps",
+  "entity_id": "sensor.buro_markus_heizung_closing_steps"
+}
+{
+  "name": "Büro Markus Heizung Valve opening limit voltage",
+  "entity_id": "sensor.buro_markus_heizung_valve_opening_limit_voltage"
+}
+{
+  "name": "Büro Markus Heizung Valve closing limit voltage",
+  "entity_id": "sensor.buro_markus_heizung_valve_closing_limit_voltage"
+}
+{
+  "name": "Büro Markus Heizung Valve motor running voltage",
+  "entity_id": "sensor.buro_markus_heizung_valve_motor_running_voltage"
+}
+{
+  "name": "Büro Markus Heizung Temperatur",
+  "entity_id": "sensor.buro_markus_heizung_local_temperature"
+}
+{
+  "name": "Schlafzimmer Heizung Batterie",
+  "entity_id": "sensor.schlafzimmer_heizung_battery"
+}
+{
+  "name": "Schlafzimmer Heizung Idle steps",
+  "entity_id": "sensor.schlafzimmer_heizung_idle_steps"
+}
+{
+  "name": "Schlafzimmer Heizung Closing steps",
+  "entity_id": "sensor.schlafzimmer_heizung_closing_steps"
+}
+{
+  "name": "Schlafzimmer Heizung Valve opening limit voltage",
+  "entity_id": "sensor.schlafzimmer_heizung_valve_opening_limit_voltage"
+}
+{
+  "name": "Schlafzimmer Heizung Valve closing limit voltage",
+  "entity_id": "sensor.schlafzimmer_heizung_valve_closing_limit_voltage"
+}
+{
+  "name": "Schlafzimmer Heizung Valve motor running voltage",
+  "entity_id": "sensor.schlafzimmer_heizung_valve_motor_running_voltage"
+}
+{
+  "name": "Schlafzimmer Heizung Temperatur",
+  "entity_id": "sensor.schlafzimmer_heizung_local_temperature"
+}
+{
+  "name": "SNF Wohnzimmer Batterie",
+  "entity_id": "sensor.sn_wohnzimmer_temperatur_battery"
+}
+{
+  "name": "SNF Wohnzimmer Temperatur",
+  "entity_id": "sensor.sn_wohnzimmer_temperatur_temperature"
+}
+{
+  "name": "SNF Wohnzimmer Luftfeuchtigkeit",
+  "entity_id": "sensor.sn_wohnzimmer_temperatur_humidity"
+}
+{
+  "name": "SNF Küche Batterie",
+  "entity_id": "sensor.snf_kuche_battery"
+}
+{
+  "name": "SNF Küche Temperatur",
+  "entity_id": "sensor.snf_kuche_temperature"
+}
+{
+  "name": "SNF Küche Luftfeuchtigkeit",
+  "entity_id": "sensor.snf_kuche_humidity"
+}
+{
+  "name": "SNF Markus Batterie",
+  "entity_id": "sensor.snf_markus_battery"
+}
+{
+  "name": "SNF Markus Temperatur",
+  "entity_id": "sensor.snf_markus_temperature"
+}
+{
+  "name": "SNF Markus Luftfeuchtigkeit",
+  "entity_id": "sensor.snf_markus_humidity"
+}
+{
+  "name": "SNF Bad Batterie",
+  "entity_id": "sensor.snf_bad_battery"
+}
+{
+  "name": "SNF Bad Temperatur",
+  "entity_id": "sensor.snf_bad_temperature"
+}
+{
+  "name": "SNF Bad Luftfeuchtigkeit",
+  "entity_id": "sensor.snf_bad_humidity"
+}
+{
+  "name": "SNF Schlafzimmer Batterie",
+  "entity_id": "sensor.snf_schlafzimmer_battery"
+}
+{
+  "name": "SNF Schlafzimmer Temperatur",
+  "entity_id": "sensor.snf_schlafzimmer_temperature"
+}
+{
+  "name": "SNF Schlafzimmer Luftfeuchtigkeit",
+  "entity_id": "sensor.snf_schlafzimmer_humidity"
+}
+{
+  "name": "SNF Draußen Batterie",
+  "entity_id": "sensor.snf_draussen_battery"
+}
+{
+  "name": "SNF Draußen Temperatur",
+  "entity_id": "sensor.snf_draussen_temperature"
+}
+{
+  "name": "SNF Draußen Luftfeuchtigkeit",
+  "entity_id": "sensor.snf_draussen_humidity"
+}
+{
+  "name": "Bewegungsmelder Batterie",
+  "entity_id": "sensor.bewegungsmelder_battery"
+}
+{
+  "name": "Bewegungsmelder Spannung",
+  "entity_id": "sensor.bewegungsmelder_voltage"
+}
+{
+  "name": "Bewegungsmelder neu Beleuchtungsstärke",
+  "entity_id": "sensor.bewegungsmelder_neu_illuminance"
+}
+{
+  "name": "Bewegungsmelder neu Temperatur",
+  "entity_id": "sensor.bewegungsmelder_neu_temperature"
+}
+{
+  "name": "Bewegungsmelder neu Luftfeuchtigkeit",
+  "entity_id": "sensor.bewegungsmelder_neu_humidity"
+}
+{
+  "name": "Bewegungsmelder neu Batterie",
+  "entity_id": "sensor.bewegungsmelder_neu_battery"
+}
+{
+  "name": "Wasserleck  Wanne Batterie",
+  "entity_id": "sensor.wasserlecksensor_wanne_battery"
+}
+{
+  "name": "Wasserleck Heizung Batterie",
+  "entity_id": "sensor.0xa4c1380b0305ffff_battery"
+}
+{
+  "name": "Wasserleck  Küche Batterie",
+  "entity_id": "sensor.wasserlecksensor_kuche_battery"
+}
+{
+  "name": "Wasserleck Spülmaschine Batterie",
+  "entity_id": "sensor.wasserlecksensor_spulmaschine_battery"
+}
+{
+  "name": "Wasserleck Waschmaschine Batterie",
+  "entity_id": "sensor.wasserlecksensor_waschmaschine_battery"
+}
+{
+  "name": "Flur Bewegungsmelder Batterie",
+  "entity_id": "sensor.flur_bewegungsmelder_battery"
+}
+{
+  "name": "Flur Bewegungsmelder Spannung",
+  "entity_id": "sensor.flur_bewegungsmelder_voltage"
+}
+{
+  "name": "Abluft WC FB Batterie",
+  "entity_id": "sensor.abluft_wc_schalter_battery"
+}
+{
+  "name": "Abluft WC FB Spannung",
+  "entity_id": "sensor.abluft_wc_schalter_voltage"
+}
+{
+  "name": "RC_Stehlampe Batterie",
+  "entity_id": "sensor.rc_stehlampe_battery"
+}
+{
+  "name": "Alarm_FB Batterie",
+  "entity_id": "sensor.alarm_fb_battery"
+}
+{
+  "name": "Alarm_FB Spannung",
+  "entity_id": "sensor.alarm_fb_voltage"
+}
+{
+  "name": "Bibis_FB_Eck Batterie",
+  "entity_id": "sensor.bibis_fb_eck_battery"
+}
+{
+  "name": "Bibis_Ecke_Licht Color options",
+  "entity_id": "sensor.bibis_ecke_licht_color_options"
+}
+{
+  "name": "0x003c84fffed84dd8 Batterie",
+  "entity_id": "sensor.0x003c84fffed84dd8_battery"
+}
+{
+  "name": "Wasserlecksensor_WC Batterie",
+  "entity_id": "sensor.wasserlecksensor_wc_battery"
+}
+{
+  "name": "RadarCustomFW Beleuchtungsstärke",
+  "entity_id": "sensor.radarcustomfw_illuminance"
+}
+{
+  "name": "RadarCustomFW Target distance",
+  "entity_id": "sensor.radarcustomfw_target_distance"
+}
+{
+  "name": "0x881a14fffee85330 Beleuchtungsstärke",
+  "entity_id": "sensor.0x881a14fffee85330_illuminance"
+}
+{
+  "name": "0x881a14fffee85330 Batterie",
+  "entity_id": "sensor.0x881a14fffee85330_battery"
+}
+{
+  "name": "0x881a14fffee85330 Spannung",
+  "entity_id": "sensor.0x881a14fffee85330_voltage"
+}
+{
+  "name": "0x881a14fffee85330 Illuminance raw",
+  "entity_id": "sensor.0x881a14fffee85330_illuminance_raw"
+}
+{
+  "name": "Ikea Bewegung Markus Beleuchtungsstärke",
+  "entity_id": "sensor.ikea_bewegung_markus_illuminance"
+}
+{
+  "name": "Ikea Bewegung Markus Batterie",
+  "entity_id": "sensor.ikea_bewegung_markus_battery"
+}
+{
+  "name": "Ikea Bewegung Markus Spannung",
+  "entity_id": "sensor.ikea_bewegung_markus_voltage"
+}
+{
+  "name": "Ikea Bewegung Markus Illuminance raw",
+  "entity_id": "sensor.ikea_bewegung_markus_illuminance_raw"
+}
+{
+  "name": "Zigbee2MQTT Bridge Permit join",
+  "entity_id": "switch.zigbee2mqtt_bridge_permit_join"
+}
+{
+  "name": "Wohnzimmer Heizung Child lock",
+  "entity_id": "switch.wohnzimmer_heizung_child_lock"
+}
+{
+  "name": "Wohnzimmer Heizung Open window",
+  "entity_id": "switch.wohnzimmer_heizung_open_window"
+}
+{
+  "name": "Büro Markus Heizung Child lock",
+  "entity_id": "switch.buro_markus_heizung_child_lock"
+}
+{
+  "name": "Büro Markus Heizung Open window",
+  "entity_id": "switch.buro_markus_heizung_open_window"
+}
+{
+  "name": "Schlafzimmer Heizung Child lock",
+  "entity_id": "switch.schlafzimmer_heizung_child_lock"
+}
+{
+  "name": "Schlafzimmer Heizung Open window",
+  "entity_id": "switch.schlafzimmer_heizung_open_window"
+}
+{
+  "name": "Bewegungsmelder neu Indicator",
+  "entity_id": "switch.bewegungsmelder_neu_indicator"
+}
+{
+  "name": "Esszimmer Lampe 1 Do not disturb",
+  "entity_id": "switch.esszimmer_lampe_1_do_not_disturb"
+}
+{
+  "name": "Esszimmer Lampe 2 Do not disturb",
+  "entity_id": "switch.esszimmer_lampe_2_do_not_disturb"
+}
+{
+  "name": "Esszimmer Lampe 3 Do not disturb",
+  "entity_id": "switch.esszimmer_lampe_3_do_not_disturb"
+}
+{
+  "name": "Tuya Sirene Light",
+  "entity_id": "switch.tuya_sirene_light"
+}
+{
+  "name": "Wohnzimmer Heizung Weekly schedule sunday",
+  "entity_id": "text.wohnzimmer_heizung_weekly_schedule_sunday"
+}
+{
+  "name": "Wohnzimmer Heizung Weekly schedule monday",
+  "entity_id": "text.wohnzimmer_heizung_weekly_schedule_monday"
+}
+{
+  "name": "Wohnzimmer Heizung Weekly schedule tuesday",
+  "entity_id": "text.wohnzimmer_heizung_weekly_schedule_tuesday"
+}
+{
+  "name": "Wohnzimmer Heizung Weekly schedule wednesday",
+  "entity_id": "text.wohnzimmer_heizung_weekly_schedule_wednesday"
+}
+{
+  "name": "Wohnzimmer Heizung Weekly schedule thursday",
+  "entity_id": "text.wohnzimmer_heizung_weekly_schedule_thursday"
+}
+{
+  "name": "Wohnzimmer Heizung Weekly schedule friday",
+  "entity_id": "text.wohnzimmer_heizung_weekly_schedule_friday"
+}
+{
+  "name": "Wohnzimmer Heizung Weekly schedule saturday",
+  "entity_id": "text.wohnzimmer_heizung_weekly_schedule_saturday"
+}
+{
+  "name": "Büro Markus Heizung Weekly schedule sunday",
+  "entity_id": "text.buro_markus_heizung_weekly_schedule_sunday"
+}
+{
+  "name": "Büro Markus Heizung Weekly schedule monday",
+  "entity_id": "text.buro_markus_heizung_weekly_schedule_monday"
+}
+{
+  "name": "Büro Markus Heizung Weekly schedule tuesday",
+  "entity_id": "text.buro_markus_heizung_weekly_schedule_tuesday"
+}
+{
+  "name": "Büro Markus Heizung Weekly schedule wednesday",
+  "entity_id": "text.buro_markus_heizung_weekly_schedule_wednesday"
+}
+{
+  "name": "Büro Markus Heizung Weekly schedule thursday",
+  "entity_id": "text.buro_markus_heizung_weekly_schedule_thursday"
+}
+{
+  "name": "Büro Markus Heizung Weekly schedule friday",
+  "entity_id": "text.buro_markus_heizung_weekly_schedule_friday"
+}
+{
+  "name": "Büro Markus Heizung Weekly schedule saturday",
+  "entity_id": "text.buro_markus_heizung_weekly_schedule_saturday"
+}
+{
+  "name": "Schlafzimmer Heizung Weekly schedule sunday",
+  "entity_id": "text.schlafzimmer_heizung_weekly_schedule_sunday"
+}
+{
+  "name": "Schlafzimmer Heizung Weekly schedule monday",
+  "entity_id": "text.schlafzimmer_heizung_weekly_schedule_monday"
+}
+{
+  "name": "Schlafzimmer Heizung Weekly schedule tuesday",
+  "entity_id": "text.schlafzimmer_heizung_weekly_schedule_tuesday"
+}
+{
+  "name": "Schlafzimmer Heizung Weekly schedule wednesday",
+  "entity_id": "text.schlafzimmer_heizung_weekly_schedule_wednesday"
+}
+{
+  "name": "Schlafzimmer Heizung Weekly schedule thursday",
+  "entity_id": "text.schlafzimmer_heizung_weekly_schedule_thursday"
+}
+{
+  "name": "Schlafzimmer Heizung Weekly schedule friday",
+  "entity_id": "text.schlafzimmer_heizung_weekly_schedule_friday"
+}
+{
+  "name": "Schlafzimmer Heizung Weekly schedule saturday",
+  "entity_id": "text.schlafzimmer_heizung_weekly_schedule_saturday"
+}
+{
+  "name": "Garderobe Licht",
+  "entity_id": "update.garderobe_licht"
+}
+{
+  "name": "Garderobe Schalter",
+  "entity_id": "update.garderobe_schalter"
+}
+{
+  "name": "Wohnzimmer Heizung",
+  "entity_id": "update.wohnzimmer_heizung"
+}
+{
+  "name": "Büro Markus Heizung",
+  "entity_id": "update.buro_markus_heizung"
+}
+{
+  "name": "Schlafzimmer Heizung",
+  "entity_id": "update.schlafzimmer_heizung"
+}
+{
+  "name": "SNF Wohnzimmer",
+  "entity_id": "update.sn_wohnzimmer_temperatur"
+}
+{
+  "name": "SNF Küche",
+  "entity_id": "update.snf_kuche"
+}
+{
+  "name": "SNF Markus",
+  "entity_id": "update.snf_markus"
+}
+{
+  "name": "SNF Bad",
+  "entity_id": "update.snf_bad"
+}
+{
+  "name": "SNF Schlafzimmer",
+  "entity_id": "update.snf_schlafzimmer"
+}
+{
+  "name": "SNF Draußen",
+  "entity_id": "update.snf_draussen"
+}
+{
+  "name": "Licht Wohnzimmerschrank",
+  "entity_id": "update.licht_wohnzimmerschrank"
+}
+{
+  "name": "Küchen Unterlicht",
+  "entity_id": "update.kuchen_unterlicht"
+}
+{
+  "name": "Licht Küche Unterschrank2",
+  "entity_id": "update.licht_kuche_unterschrank2"
+}
+{
+  "name": "Licht Aktenschrank Markus",
+  "entity_id": "update.licht_aktenschrank_markus"
+}
+{
+  "name": "Abluft WC FB",
+  "entity_id": "update.abluft_wc_schalter"
+}
+{
+  "name": "RC_Stehlampe",
+  "entity_id": "update.rc_stehlampe"
+}
+{
+  "name": "Alarm_FB",
+  "entity_id": "update.alarm_fb"
+}
+{
+  "name": "Bibis_FB_Eck",
+  "entity_id": "update.bibis_fb_eck"
+}
+{
+  "name": "Bibis_Ecke_Licht",
+  "entity_id": "update.bibis_ecke_licht"
+}
+{
+  "name": "0x003c84fffed84dd8",
+  "entity_id": "update.0x003c84fffed84dd8"
+}
+{
+  "name": "0x881a14fffee85330",
+  "entity_id": "update.0x881a14fffee85330"
+}
+{
+  "name": "Ikea Bewegung Markus",
+  "entity_id": "update.ikea_bewegung_markus"
+}
+{
+  "name": "Licht 3D-Drucker",
+  "entity_id": "update.licht_3d_drucker"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Firmware-Update",
+  "entity_id": "button.fritz_box_6490_cable_firmware_update"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Neu starten",
+  "entity_id": "button.fritz_box_6490_cable_neu_starten"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Neu verbinden",
+  "entity_id": "button.fritz_box_6490_cable_neu_verbinden"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Aufräumen",
+  "entity_id": "button.fritz_box_6490_cable_aufraumen"
+}
+{
+  "name": "fritz.box fritz.box",
+  "entity_id": "device_tracker.fritz_box"
+}
+{
+  "name": "homeassistant homeassistant",
+  "entity_id": "device_tracker.homeassistant_2"
+}
+{
+  "name": "MFC-L2710DW Drucker",
+  "entity_id": "device_tracker.brwf889d22e6f62"
+}
+{
+  "name": "none-2 linux-2",
+  "entity_id": "device_tracker.none_2"
+}
+{
+  "name": "linux linux",
+  "entity_id": "device_tracker.linux_2"
+}
+{
+  "name": "Stern Kinderzimmer Meross-Smart-Plug",
+  "entity_id": "device_tracker.pc_48_e1_e9_da_d7_a2"
+}
+{
+  "name": "Abluft WC Meross-Smart-Plug",
+  "entity_id": "device_tracker.meross_smart_plug_3"
+}
+{
+  "name": "linux none",
+  "entity_id": "device_tracker.linux"
+}
+{
+  "name": "amazon-b0bca43b4 amazon-b0bca43b4",
+  "entity_id": "device_tracker.amazon_b0bca43b4"
+}
+{
+  "name": "android-e7477dfc46141265 android-e7477dfc46141265",
+  "entity_id": "device_tracker.android_e7477dfc46141265"
+}
+{
+  "name": "Bibi Smartphone Android-3",
+  "entity_id": "device_tracker.android"
+}
+{
+  "name": "Stern Bibi´s Büro Meross-Smart-Plug",
+  "entity_id": "device_tracker.meross_smart_plug"
+}
+{
+  "name": "RingIntercom-9c RingIntercom-9c",
+  "entity_id": "device_tracker.ringintercom_9c"
+}
+{
+  "name": "PC-192-168-178-55 PC-F4-3C-3B-06-4B-80",
+  "entity_id": "device_tracker.pc_192_168_178_55"
+}
+{
+  "name": "OnePlus-7T OnePlus-7T",
+  "entity_id": "device_tracker.oneplus_7t"
+}
+{
+  "name": "OPWWE234 OPWWE234",
+  "entity_id": "device_tracker.opwwe234"
+}
+{
+  "name": "M2007J20CG M2007J20CG",
+  "entity_id": "device_tracker.m2007j20cg"
+}
+{
+  "name": "MCSmart-MCSmart30202232R9YIRA MCSmart-MCSmart30202232R9YIRA",
+  "entity_id": "device_tracker.mcsmart_mcsmart30202232r9yira"
+}
+{
+  "name": "lwip0 lwip0",
+  "entity_id": "device_tracker.lwip0"
+}
+{
+  "name": "esp32s3-778ABC esp32s3-778ABC",
+  "entity_id": "device_tracker.esp32s3_778abc"
+}
+{
+  "name": "Guition Display guition-display",
+  "entity_id": "device_tracker.guition_display"
+}
+{
+  "name": "PC-192-168-178-87 PC-192-168-178-87",
+  "entity_id": "device_tracker.pc_192_168_178_87"
+}
+{
+  "name": "grocy grocy",
+  "entity_id": "device_tracker.grocy"
+}
+{
+  "name": "SLZB-06 SLZB-06-Matter",
+  "entity_id": "device_tracker.slzb_06_2"
+}
+{
+  "name": "SLZB-06 SLZB-06-zigbee",
+  "entity_id": "device_tracker.slzb_06"
+}
+{
+  "name": "Bibis-Laptop Bibis-Laptop",
+  "entity_id": "device_tracker.bibis_laptop"
+}
+{
+  "name": "Markus-sein-PC Markus-sein-PC",
+  "entity_id": "device_tracker.markus_sein_pc_2"
+}
+{
+  "name": "FRITZ!Box 6490 Cable FRITZ!OS",
+  "entity_id": "update.fritz_box_6490_cable_fritz_os"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Verbindung",
+  "entity_id": "binary_sensor.fritz_box_6490_cable_verbindung"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Verbinden",
+  "entity_id": "binary_sensor.fritz_box_6490_cable_verbinden"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Externe IP",
+  "entity_id": "sensor.fritz_box_6490_cable_externe_ip"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Externe IPv6",
+  "entity_id": "sensor.fritz_box_6490_cable_externe_ipv6"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Letzter Neustart",
+  "entity_id": "sensor.fritz_box_6490_cable_letzter_neustart"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Verbindungsverfügbarkeit",
+  "entity_id": "sensor.fritz_box_6490_cable_verbindungsverfugbarkeit"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Wi-Fi BMJ (2.4Ghz)",
+  "entity_id": "switch.fritz_box_6490_cable_wi_fi_bmj_2_4ghz"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Wi-Fi BMJ (5Ghz)",
+  "entity_id": "switch.fritz_box_6490_cable_wi_fi_bmj_5ghz"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Wi-Fi FRITZ!Box Gastzugang",
+  "entity_id": "switch.fritz_box_6490_cable_wi_fi_fritz_box_gastzugang"
+}
+{
+  "name": "fritz.box Internetzugang",
+  "entity_id": "switch.fritz_box_internet_access"
+}
+{
+  "name": "homeassistant Internetzugang",
+  "entity_id": "switch.homeassistant_internet_access_2"
+}
+{
+  "name": "MFC-L2710DW Internetzugang",
+  "entity_id": "switch.brwf889d22e6f62_internet_access"
+}
+{
+  "name": "none-2 Internetzugang",
+  "entity_id": "switch.none_2_internet_access"
+}
+{
+  "name": "linux Internetzugang",
+  "entity_id": "switch.linux_internet_access_2"
+}
+{
+  "name": "Stern Kinderzimmer Internetzugang",
+  "entity_id": "switch.pc_48_e1_e9_da_d7_a2_internet_access"
+}
+{
+  "name": "Abluft WC Internetzugang",
+  "entity_id": "switch.meross_smart_plug_internet_access_3"
+}
+{
+  "name": "linux Internetzugang",
+  "entity_id": "switch.linux_internet_access"
+}
+{
+  "name": "amazon-b0bca43b4 Internetzugang",
+  "entity_id": "switch.amazon_b0bca43b4_internet_access"
+}
+{
+  "name": "android-e7477dfc46141265 Internetzugang",
+  "entity_id": "switch.android_e7477dfc46141265_internet_access"
+}
+{
+  "name": "Bibi Smartphone Internetzugang",
+  "entity_id": "switch.android_internet_access"
+}
+{
+  "name": "Stern Bibi´s Büro Internetzugang",
+  "entity_id": "switch.meross_smart_plug_internet_access"
+}
+{
+  "name": "RingIntercom-9c Internetzugang",
+  "entity_id": "switch.ringintercom_9c_internet_access"
+}
+{
+  "name": "PC-192-168-178-55 Internetzugang",
+  "entity_id": "switch.pc_192_168_178_55_internet_access"
+}
+{
+  "name": "OnePlus-7T Internetzugang",
+  "entity_id": "switch.oneplus_7t_internet_access"
+}
+{
+  "name": "OPWWE234 Internetzugang",
+  "entity_id": "switch.opwwe234_internet_access"
+}
+{
+  "name": "M2007J20CG Internetzugang",
+  "entity_id": "switch.m2007j20cg_internet_access"
+}
+{
+  "name": "MCSmart-MCSmart30202232R9YIRA Internetzugang",
+  "entity_id": "switch.mcsmart_mcsmart30202232r9yira_internet_access"
+}
+{
+  "name": "lwip0 Internetzugang",
+  "entity_id": "switch.lwip0_internet_access"
+}
+{
+  "name": "esp32s3-778ABC Internetzugang",
+  "entity_id": "switch.esp32s3_778abc_internetzugang"
+}
+{
+  "name": "Guition Display Internetzugang",
+  "entity_id": "switch.guition_display_internetzugang"
+}
+{
+  "name": "PC-192-168-178-87 Internetzugang",
+  "entity_id": "switch.pc_192_168_178_87_internet_access"
+}
+{
+  "name": "grocy Internetzugang",
+  "entity_id": "switch.grocy_internet_access"
+}
+{
+  "name": "SLZB-06 Internetzugang",
+  "entity_id": "switch.slzb_06_internet_access_2"
+}
+{
+  "name": "SLZB-06 Internetzugang",
+  "entity_id": "switch.slzb_06_internet_access"
+}
+{
+  "name": "Bibis-Laptop Internetzugang",
+  "entity_id": "switch.bibis_laptop_internet_access"
+}
+{
+  "name": "Markus-sein-PC Internetzugang",
+  "entity_id": "switch.markus_sein_pc_internet_access_2"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Upload-Durchsatz",
+  "entity_id": "sensor.fritz_box_6490_cable_upload_durchsatz"
+}
+{
+  "name": "FRITZ!Box 6490 Cable FRITZ!Box Gastzugang",
+  "entity_id": "image.fritz_box_6490_cable_fritz_box_gastzugang"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Download-Durchsatz",
+  "entity_id": "sensor.fritz_box_6490_cable_download_durchsatz"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Maximaler Upload-Durchsatz der Verbindung",
+  "entity_id": "sensor.fritz_box_6490_cable_maximaler_upload_durchsatz_der_verbindung"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Maximaler Download-Durchsatz der Verbindung",
+  "entity_id": "sensor.fritz_box_6490_cable_maximaler_download_durchsatz_der_verbindung"
+}
+{
+  "name": "FRITZ!Box 6490 Cable GB gesendet",
+  "entity_id": "sensor.fritz_box_6490_cable_gb_gesendet"
+}
+{
+  "name": "FRITZ!Box 6490 Cable GB empfangen",
+  "entity_id": "sensor.fritz_box_6490_cable_gb_empfangen"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Link-Upload-Durchsatz",
+  "entity_id": "sensor.fritz_box_6490_cable_link_upload_durchsatz"
+}
+{
+  "name": "FRITZ!Box 6490 Cable Link-Download-Durchsatz",
+  "entity_id": "sensor.fritz_box_6490_cable_link_download_durchsatz"
+}
+{
+  "name": "FRITZ!Box 6490 Cable CPU-Temperatur",
+  "entity_id": "sensor.fritz_box_6490_cable_cpu_temperatur"
+}
+{
+  "name": "homeassistant",
+  "entity_id": "device_tracker.homeassistant"
+}
+{
+  "name": "homeassistant Internet Access",
+  "entity_id": "switch.homeassistant_internet_access"
+}
+{
+  "name": "Meross-Smart-Plug",
+  "entity_id": "device_tracker.meross_smart_plug_2"
+}
+{
+  "name": "Meross-Smart-Plug Internet Access",
+  "entity_id": "switch.meross_smart_plug_internet_access_2"
+}
+{
+  "name": "scanbuddy",
+  "entity_id": "device_tracker.scanbuddy"
+}
+{
+  "name": "Internetzugang",
+  "entity_id": "switch.scanbuddy_internet_access"
+}
+{
+  "name": "Twinkly-6326E5",
+  "entity_id": "device_tracker.pc_64_e8_33_63_26_e4"
+}
+{
+  "name": "Twinkly-6326E5 Internet Access",
+  "entity_id": "switch.pc_64_e8_33_63_26_e4_internet_access"
+}
+{
+  "name": "Twinkly-620495",
+  "entity_id": "device_tracker.twinkly_620495"
+}
+{
+  "name": "Twinkly-620495 Internet Access",
+  "entity_id": "switch.twinkly_620495_internet_access"
+}
+{
+  "name": "Zeit: Vorhersagewerte",
+  "entity_id": "sensor.freudenstadt_zeit_vorhersagewerte"
+}
+{
+  "name": "Zeit: Messwerte",
+  "entity_id": "sensor.freudenstadt_zeit_messwerte"
+}
+{
+  "name": "Markus-sein-PC",
+  "entity_id": "device_tracker.markus_sein_pc"
+}
+{
+  "name": "Markus-sein-PC Internet Access",
+  "entity_id": "switch.markus_sein_pc_internet_access"
+}
+{
+  "name": "OnePlus-7T",
+  "entity_id": "device_tracker.oneplus_7t_2"
+}
+{
+  "name": "OnePlus-7T Internet Access",
+  "entity_id": "switch.oneplus_7t_internet_access_2"
+}
+{
+  "name": "M2007J20CG",
+  "entity_id": "device_tracker.m2007j20cg_2"
+}
+{
+  "name": "M2007J20CG Internet Access",
+  "entity_id": "switch.m2007j20cg_internet_access_2"
+}
+{
+  "name": "PC-192-168-178-31",
+  "entity_id": "device_tracker.pc_192_168_178_31"
+}
+{
+  "name": "PC-192-168-178-31 Internet Access",
+  "entity_id": "switch.pc_192_168_178_31_internet_access"
+}
+{
+  "name": "Aktuellen Titel favorisieren",
+  "entity_id": "button.kiosk_show_1_aktuellen_titel_favorisieren"
+}
+{
+  "name": null,
+  "entity_id": "media_player.kiosk_show_1"
+}
+{
+  "name": "Aktuellen Titel favorisieren",
+  "entity_id": "button.kiosk_browser_aktuellen_titel_favorisieren"
+}
+{
+  "name": null,
+  "entity_id": "media_player.kiosk_browser"
+}
+{
+  "name": "Nächster Alarm",
+  "entity_id": "sensor.this_device_nachster_alarm"
+}
+{
+  "name": "Nächster Teilnehmer",
+  "entity_id": "sensor.this_device_nachster_teilnehmer"
+}
+{
+  "name": "Nächste Erinnerung",
+  "entity_id": "sensor.this_device_nachste_erinnerung"
+}
+{
+  "name": "Nächster Alarm",
+  "entity_id": "sensor.handy_markus_nachster_alarm"
+}
+{
+  "name": "Nächster Teilnehmer",
+  "entity_id": "sensor.handy_markus_nachster_teilnehmer"
+}
+{
+  "name": "Nächste Erinnerung",
+  "entity_id": "sensor.handy_markus_nachste_erinnerung"
+}
+{
+  "name": "ESPHome Entities Export",
+  "entity_id": "automation.esphome_entities_export"
+}
